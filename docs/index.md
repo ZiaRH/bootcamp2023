@@ -1,25 +1,6 @@
-# Welcome to MkDocs
-# Hi from ziyana
-# online edit 
-# dance
-# hello
+  About me;
+=========
 
-This is a test site hosted on [GitLab Pages](https://pages.gitlab.io). You can
-[browse its source code](https://gitlab.com/pages/mkdocs), fork it and start
-using it on your projects.
+ Hi hi my name is Ziyana Ramdutt. I'm 16 years old and a junior in high school at Adfontes lyceum. I have dyslexia and ironically love to read. My dyslexia was discord a few years ago and just recently I learned how to work around it and use it to make me a better person. Coding piqued my interest in mid 2022, where my brother was introduced to programming via a Lego group, and I took an interest in it and started self-studying python. My father has also studied programming and was really excited that I started showing interest in it. We spend weekends building some other stuff, he also purchased a robot that we are building together.   
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+After my experience with the coddets innostarterand hocomation I saw different opportunities that were being opened for me, and bootcamp is one of them and will help me brighten up my future career paths. Truly enjoy the work and strive and want to continue! I'm really passionate about programming and will do what I can to improve my knowledge and skills and become the best I can.
