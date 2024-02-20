@@ -1,3 +1,1457 @@
-site_name: My Docs by GitLab Pages
-site_url: https://pages.gitlab.io/mkdocs
-site_dir: public
+About me;
+=========
+
+ Hi hi my name is Ziyana Ramdutt. I'm a 16 years old and a junior in highschool at Adfontes lyceum. I have dyslexia and ironically love to read. My dyslexia was discord a few years ago and just recently I learned how to work around it and use it to make me a better person. Coding piqued my interest in mid 2022, where my brother was introduced to programming via a lego group and I took an interest in it and started self-studying python. My father has also studied programming and was really excited that I started showing interest in it. We spend weekends building some other stuff, he also purchased a robot that we are building together.   
+
+After my experience with the coddets innostarter and hocomation I saw different opportunities that were being opened for me, and bootcamp is one of them and will help me brighten up my future career paths. Truly enjoy the work and strive and want to continue! I'm really passionate about programming and will do what I can to improve my knowledge and skills and become the best I can.
+
+![](https://lh7-us.googleusercontent.com/4ZlgZzeHu36x-h5y3LyaF-kfHpNZ_dxr8mXOnjPu-NkEyQLzK3r_ONvbdab0oE7AH0vwNg-Up870OfMzyFbU-QK1kqdZIZe502jM0PClddEMEgDOuEy8L9PrQ6g0zFE7uMMozh2ctglso8WVzDSwPk0)
+
+Week 1
+======
+
+### Day 1. Setting up a GitHub account, push and pull.
+
+Step 1. Log into GitHub [web] download GitHub desktop (log in with the same username). 
+
+And log into notepad ++
+
+Sign Up for Github Account
+
+https://github.com/
+
+Notepad++
+
+<https://notepad-plus-plus.org/downloads/v8.4.9/>
+
+Github Desktop
+
+<https://desktop.github.com/>
+
+[Paste to Markdown (euangoddard.github.io)](https://euangoddard.github.io/clipboard2markdown/)
+
+             Step 2. Import repository
+
+![](https://lh7-us.googleusercontent.com/T0eAU46hacXrhKpqhsMVoG4d_d2hQdYfoRanZ592E5WlFUmi2ELmFJjyScAxKbyEYPtDmX2sThBm34E1Q59ve7axTiXs3Dju6aNGeuVgQan7KlqdCQf1LkHYBSYFzV13tPh2Y73WPjtETJxRomm2MXM)
+
+   Step 3. Repostoryname -> public (copy the URL link) -> begin import 
+
+![](https://lh7-us.googleusercontent.com/Ron3NcSgi7w0tEeKaXthiKExlnCtf9TGn9LLAd5N2OSrqSZxn7DEi_BNHt6_qLrhv-9umhtpDnT4lBZg_faRxd1X5YVgtSL1Cy5IvA79Tu92efWtd39P3J6d0M7W1frQMNeZmQIz37VFPbZ-OPntBTY)
+
+Step 4. Download; [Folder - Google Drive](https://drive.google.com/drive/folders/1rEbBA5UYhnrQrHGsEiU3D2dWEZyIuBi2) and import it to your GitHub folder.
+
+![](https://lh7-us.googleusercontent.com/dZhl6XBZ3gS9yHiha2dyEZL95CMDVroRTrDP6mRtxFzaiKV-IJdXlwPOPSerpSM8K_Hkx1Fc2GwA9RisqgK_Oq_Gco_RJ56uIN4tl37t7lsQ0ifWMs_P2wVE6UlzX6WMpbvF_sJlwi0hZA5qyY6jnTw)
+
+Step 5. Clone repertory -> URL -> and add your link from step 3 -> clone
+
+![](https://lh7-us.googleusercontent.com/NXwMbI74zNnvkU-rLOpLoIByDJZUUNxJvZaAuQPy-sdoqpAi4zYGN2FzNarQ-pC5vmfRwVhAfV7Di7aa5DOhbH-X4tpIzc4mfaPMRYuZMMoLD4fZq3EwzVITZ90WziQamllTbRtkRI4RGI2zDF2RIkA)
+
+![](https://lh7-us.googleusercontent.com/ywdDXojqYDbhkv2zAPjyNyJynCvqPsuwj8BUqT-uoPTLD6mPvGcMpPZIURRxDKM1VhB_OzKaUPPrO9Qfnj0p9IrwHt9gqDC_r4kNcPTLZCrqJbIvaWnojPj3WyStw0bRemhkc0elBOxAOljYiqPfKKY)
+
+Step 6. Open github folder -> bootcam2023 -> docs -> index, and open it in notepad ++
+
+ If you're having issues opening the file, do it within the notepad it self; film -> open - > index.
+
+![](https://lh7-us.googleusercontent.com/DDV-RGxjSNFvTOpvVfsKg86btksN4fMlHl88uINbS6ONn70xNCsEnsUZlvgQSxRZkWv3BhY6MxQOXKLqsAGI1JlA22GAeOoNb6F77ysQCqJjsIF92TEhAKGMeSoVX0iUFu5zThkMjdSIwdAuS0emKow)
+
+![](https://lh7-us.googleusercontent.com/6ixv1zqS1Dkd9cN8cCYOch-LiiS80ma23nJf29758sjm6RpUtyuFryBljSLOt8R9NQqSsqGnMiyORerZY41frL5wsEvUQ0sTViq7uyGMAAZXoHdZZQ1qBBd2rJKYxCwWOd6k5r2gO_sjKkMesTH3JvE)
+
+Step 7.  Making your changes -> open github desktop -> commit to main -> Puch origin
+
+![](https://lh7-us.googleusercontent.com/citPSD3Nr13YWj_EQSKYNxIUItBaP_b6ThBnyv_SUfTu7KyeKTY6ydT2D6y-GhQidejz8X54rZWkawZ1Ql_gocuOJtKso2WTxjrYI9ALX5HZyMvlIU1lR3nLuAonQ6nYpNKQN3IVt3c1CzgapyrSHNw)
+
+![](https://lh7-us.googleusercontent.com/FdR3JZ8uZBj_PRVc0P9gQ0N-Z3qb2k51z5qA5l1ytgUHYIM0gYOU-or38DUDhQDzkYr4vCg--yacAEJ_GbV6UbCR9mN3MHsxuCEJcLLshIknH6BCnOFvBr5mynx05-1bSb58Liwx4VMcizICpPAELWQ)
+
+![](https://lh7-us.googleusercontent.com/HPNSXjbWm1U58RjmZAutnV27WM22EEG37d1qql5JXFT_-UwYyfZQtiT-DaEePWdqQLPrDrnnGUErgN2hrJOrTm7HXGeBdEdTNSuwEiu_t0-N2Z0bo1GbHhxVzzFV0JTOVZFAljD3inhO1s-bpScLPqg)
+
+Step 8. Go to GitHub -> settings -> pages -> add your link -> main and docs
+
+![](https://lh7-us.googleusercontent.com/fYiWzx-evBRD5_onDKcKbgezELG2gCUTVH1H6ROiXIXrKdxrw_Ll2UH0SbPXJyeNvWLsA0T_iySDredASWv_FQb_vwcIxHGdwDJxsmws50aBwDNu_QM_jWrWecrtA_wsW4qt9q5mI8TC0KrdPQUFyoU)
+
+![](https://lh7-us.googleusercontent.com/LOd7W__UMBKrQfw3hysjplA7NaIp9WfNbzYifA7k64by1_Y8PeI_m0RELAWiTivICT8LPh5qHG7qrJ48bI0CHxtOuLhaV1J9fbR6zw4tX4AnbEcebP_v0NDc383HREXV7hDTiTWmlWrjajMd0_V2Rgs)
+
+![](https://lh7-us.googleusercontent.com/gmetHgZTlDWbaCWTdEaNmawUDGwUl8vYgGiu0zzUtCvNBhXjTyfkQ_6a6wdttZGfpsxA3sEDZK3qzBNcz5yNrXCJ2yVNGIsSeJ5AQvmDnEKFralkYbJ6a-Qxorg9v6jVIzEgXHnneMiq2sy1tP00u54)
+
+Step 9. Reload the page and when it's ready you will see this
+
+![](https://lh7-us.googleusercontent.com/_Ro50sbCdFt5tQ87Q-9oFMQgllcYIvw6tmeqh7EUAK2yPdQ9MpMYvOX_Wt1WOO_xRVoYzcyxgEpYrlIOx4kXt2Z8X0HdLhdpU6CTuVO3YX6Yj7Izc9fJQJe_Hv5V-v_TScD7s-qn7VmTnV_p8AJvdJ4)
+
+My link; [Welcome to MkDocs | bootcamp2023 (ziarh.github.io)](https://ziarh.github.io/bootcamp2023/)
+
+Docs; [CB_Project_Management_Github - Google Slides](https://docs.google.com/presentation/d/1FARWTSs0OG99aUsmFXXkM_LHZ4ugUkLEY7SosxUjvNA/edit#slide=id.g1dcbd7600c3_0_543)
+
+[Watchers - ZiaRH/bootcamp2023 - GitHub](https://github.com/ZiaRH/bootcamp2023/watchers)
+
+Day 2.  Embroidering and lasering
+---------------------------------
+
+###         Embroidering 
+
+Step 1. download and making a account on;
+
+-   Inkscape and Inkstitch for Sewing and Embroidery
+
+-   <https://inkscape.org/release/inkscape-1.2/>
+
+-   <https://inkstitch.org/docs/install-windows/>
+
+-   Laser Grbl for Atomstack 
+
+-   <https://lasergrbl.com/download/>
+
+Sewing and Embroidery
+
+Step 2. Read and understand; <https://cdn.poconosewandvac.com/web/products/instruction-manuals/pdfs/brother/se1900/se1900-instruction-manual.pdf>
+
+Step 3. Open inskap -> file ->document properties -> edit according to your pictures, or your couis.
+
+![](https://lh7-us.googleusercontent.com/95Yv4FvGyqEhOOPaNtMlgjLaxjZOShQzRlPMMvWKWu39u_470fcfGwWFwAiJ76GrJt5gSJ4gu_GOIg6OQQqp6B-nERJ5SAkNWfZT9aP7e_OxQwyCm0zbht_CPEVyUmgohV5Rn8WQSGUZrXyXagXDQrk)
+
+![](https://lh7-us.googleusercontent.com/dfe9SAROD7fs4sDKP3sCDyyvF8ATSdUtVusiJBUvbNnRmQT4RRPTfputgmd_NsLzOJUdsVREHtf6BAYxjWqVL3-WbtKoAPEP7KI1h3UYLdsZ7uTEdihHvDV0KG0AyRbuULb0YZBBTPnq3zkKWHv7bmg)
+
+Step 4. Save the template -> file -> new from template -> and select
+
+![](https://lh7-us.googleusercontent.com/pphoP4HfnfWJYBy0XJlfttjT351aQhaVU6b2ZU1QoP6SJl8wxPWqtcH2SXDcSlokZTBs8suNi9R8hZvp2jlHxXpeyTo4uXpbZSHBAh9rHm1zjSYWA4LZZvySaXn7ZeOxyhKN1KoamH0-5gh2f-zBY0U)  ![](https://lh7-us.googleusercontent.com/izEvvgRNgkFdTV_6Hvic4EZKw0qO9ORoiHXEvoWDuL5zSfmwYATHS_buxuGz68DfjTOPAVWY7E4t9aLZbMdfB3V6UYqt_HW4_CgMTSxFVE3iNPUDANDJdo3pJHD45Zuvkh1kv3DpAw3TL4O7GAKqUqw)
+
+![](https://lh7-us.googleusercontent.com/oQD22Vx3NIoLWggRsVo-qCstwVSZpEvsM5ZS912fXryqYdZOI2BtTmMAtIACDMfvtXBNCt4OkNeyYjN3IV9eMwF-l5oB_Amw6DKz0_7dKgQWHp7y3nit6Tcb_TB_MxyLTsK8ZH8CAY3FxVd95cC12rI)
+
+Step 6. Open file -> open -> find the picture you want to use -> path -> trace bitmap -> and edit
+
+![](https://lh7-us.googleusercontent.com/QctMkoQM8VrMCM4IIw5UefJ_x6yFKxI9RvoLXh76_yxj-HpRAv-ejep5PXXjZqeVFV1wv8pI8v4kev6IGufVKK829hWwS7qaXaGYcY5gYrJhEOVpN7FF8pHHCgls5FFjJVupYFcgYsGhWPkDUTMHYuQ)![](https://lh7-us.googleusercontent.com/7OKkWFrrss1lRGNxjigi6kUqTSMO05oVk_EmL0N9DoCIMyWZF5y11S0rl7lKwffZC0NDExZNe_p6x8MQjZQzW4puLSSrmx4x53BAdUayS1x3ZKMd7ZxLUI8GK6HOWwdPWdGzHUstIbrTKjrTmyC5Uew)
+
+![](https://lh7-us.googleusercontent.com/Jdjoes76MR5Hj03ImWkGQ0_NCgW-c4s59LnoqbJNcrdyXxTZuGEhLueaPHK8nhXQN2YzkmUvIT5k1Ltb-8G0_pYRXfXTQjZOfuu-2KOYCo_SNWdBYFe03uOwPv_tEEtQJjW8ABxvMoUByLwCU0YzaCQ)
+
+Step 7. Extension -> ink -> prams
+
+![](https://lh7-us.googleusercontent.com/482XNi7l61qdGw_ZbfsLHMtooQZxRkaR7qgpIj8lhE24lp_m4yju5m_kmZ4eDrjUL-JqCQdjQ36Hoy37eqsX6sIjoRTJ5HXkj56SdByR-EWHrm_eeb7kkS8j8_bjZLh_u4O8c-qD_MHhzcPdzLTmMQE)
+
+Step 8. After; you will see this -> apply and quit
+
+![](https://lh7-us.googleusercontent.com/3i59Ug8hV_2_21QlZ7wGEQXsEcRL-lF-hJFXzi8mYYSyjSKxWgOBrtu_FsuodAZdzfb4QRRty1Rc4ofgLhlfTuO0sXCJ3KndmdfReYsQ1TMcpILoWz_S0dE6w6lFZLGqNRMG_TyRtBebwc4TLrS7azo)
+
+This will basically see how it will look embroidered.  (a sketch)
+
+Step 9.  Extension -> visualize export -> simulator 
+
+Seeing how it will be embroidered.
+
+![](https://lh7-us.googleusercontent.com/8sxpgLt5ddXK4RvpYoH581-K3f57MzI4OCEsb2t-_jxRfzc7sXTv9TQteSrkwpPlMG9wAQaGCYyG9xyyJ8zMXnzqNw0B_z5wig3s9PByiIafUtZQbXYx6RsLhTKoHgj6XEtr0viKCCT-L8Re_HHrPk4)
+
+![](https://lh7-us.googleusercontent.com/sdnvuyO7z3J34f1TPcG30wUTSs1Lda_Iarqvv9Z1pHCIXYqxiQOUImFAKvq2jRLuzHlBiYn7CW7o2KuEjFbe9yFFdISHEv7rBisyoMdCZLqxDEh946A2zzwF4X_WWoE4hkEEdmy5e-QmghSvmpA_xic)
+
+Step 10. Saving; make a separate folder to keep all organized.
+
+![](https://lh7-us.googleusercontent.com/6m2PrswZjcU_kUmi2ZO1hjv-Y1urxY3IsrnHQ7HJkMhhFCYKL9q4dCvevHLVzWhIWIp4axdZY6dxr0fEyObVYnLGQVk8zJ-5AOsfJ3xTJLZ59lbRBgczw5u0y7slo796K7QAG8lnhBdFq3MDXNSglB4)
+
+![](https://lh7-us.googleusercontent.com/55dgiyViUEFjBZz86a3Qjr1D_Jv2Fcc_smhkeWdBmsxufJanuPDFBhq59I1Htx389efoUeqPYKwG_XsxLtY3Yf0yUsmp5YQJK-cTXaNRLXXR7sIY7bg9ZeaCsXYe-xTXdl-nsj4YRtOFciqAXPxMa2M)
+
+Doc; [CB_4&5_CAD-CAM-Sewing-Embroidery-SE1900 - Google Slides](https://docs.google.com/presentation/d/1OrXMikqH6CCQzG2tBl6XSr3193NnIT1CXhHs5AS3Onw/edit#slide=id.g257fa451d71_0_110)
+
+My end design; ![](https://lh7-us.googleusercontent.com/Z8Mqz9x-sGbIwSIzNexShmMTMNp3EaHoUqtPTh_LTKTlRLgcDNkmot_RTBgQ0HnVkPNYzxZx9tlp7cEFACm3dAT1Dg23cpgmC5iMVxrkmprlPLRR7bxf-J3l92yFrpDYtbPfUowYdndqAjUzmVvHe2g)
+
+### Lasering
+
+Step 1. file -> open file -> select a picture -> target image -> create.
+
+![](https://lh7-us.googleusercontent.com/woPiLpF_kgpxKf_elIjnodaG4CGGFAyLpulzgkP6YkXDagdNCRSRXNdHp8nqiuZ00Ca2f20rGC3Prehqu_xcnj0KOeDXyTj_veDLCmIKT-Cn0xLVxqkrZsZyD4ddwTtYoS5PwX-eMGmctE5Hl1szy20)![](https://lh7-us.googleusercontent.com/PjfmfwU5ol_DqfuVuLg0ip7BtRnCSox_fmzASFUePagrrnA5gCmgjQxQikxjYwR72cksqc7ncuyuRPwRvOv-COg_o3fQq4px0yi6kUnemrQysZaoXsrJI2LJh5bt-O8nnvV7JM0MLAOVv3GfCW4NpjE)
+
+![](https://lh7-us.googleusercontent.com/1MFTJJg-rlIxj-I31tGroq3zEhuVy_eN0yeXmmUTrh9FWwet__hqstS7tbOQ1Euj0fCj5VS_QwhmEgReeQOLIXWmC9ponK4LKRcIX6YCvREuAa0lj0QwlydH-ahorjKYO9hmyb4vSguTWJvSZQRLlU4)![](https://lh7-us.googleusercontent.com/-d2GFijRqtAXyLXvibfvQ7fmorsEcTUV2m46hiypVmX7vNogL8k_TTWphu9kR96TyXvlNmmQc-JvFAHqPxXxbqftxaoPqGxmv5sdYRttCAOuEkS9F-eMBKRhEW-dAeJCggrYhFqyCUfLzUlQAnGH3Vg)
+
+Doc; [CB_4&5_CAD-CAM-ATOMSTACK-LASER - Google Slides](https://docs.google.com/presentation/d/1ZlQGtluOQ0iUxE3oE48aVviw4-9uasfdP-FtaDrWJOM/edit#slide=id.g25684414b03_0_94)
+
+My end design;
+
+ ![](https://lh7-us.googleusercontent.com/dIn8OL3apd--WmP3TPYVJF69mUV1IdTLorYZ0Gd1xgFaUnhLOQxn1VzQaetNxXNyWKehD1JUqQzHMbQxma28JqcuCA2ITBVD6G0LyOwOYX1Vpeo1jTx5OAn1CJirynzJnhRqF7PnTGq643uAtoNIGy0)
+
+Day 3. In lab session 
+----------------------
+
+###  Getting ready to laser 
+
+-   Staring of where we left of yesterday;
+
+Step 1. Making a border; tinkercad -> make a block -> w and h to the ideal size -> export ->
+
+            SVG 
+
+![](https://lh7-us.googleusercontent.com/I1PMX6JYkEC341RN3Onr1xQ68z4ZUdt7t0bBSZLen3DEZIAEZ786oV8jYlvX0Bbj1qQ9xEIZFDzcPSHZ78UAF-wDtc7WnqyL6OG9_aaVcC78kepE4QpTwwtuUHJ3PVh63ErjSROrAJhw8-abIwD66Sc)![](https://lh7-us.googleusercontent.com/-UzrTqIHsPz6_xfcPNZe3dMpi6GXDH98Viu1V-TxMcY3SQTtr1YlRM0B5Dzu3quubVylxibSqAnhKobyXsh0K7paqrS6vntXeNtGcc4-jC6DoToWyz0j54ppTxbv_gq7beWyUdj0OwoV3uXSDBuuRhg)
+
+Step 2. Laser app -> file -> append file -> open your SVG -> and then see if it will fit/
+
+![](https://lh7-us.googleusercontent.com/XQgctj-fr4ZTvVGYO6_CNe6k7zrCcVKgPpWcXIxHHxhTVsbS5SXMgzDKB8Kq1L_W370aAdT1ohcOFWZ0Iux1hnRTwsjnnoT_rT4n9lwWUR-1w3Vh5bJ8tVZmfV5l2Q9VdwgdLoGkDWbIIdGE1As8DXY)
+
+Step 3. Connect your laptop to your laser -> bring the laser to your idea place 
+
+![](https://lh7-us.googleusercontent.com/NJM3rZPgC_Fdie3SLwIKgjjcCYu5f05j_BQ2ugOaInHgRWaueSWa_V1KCEcIzCkraJ4Kozu3JeD3p4MrdpgHB7iOdGqzyd3Fzjwaz-P6QeBUK-AU94hxZuy8D_tFLJuxs5GYZo2ihErnzw_yH7ByaXw)![](https://lh7-us.googleusercontent.com/r0WiTXJQrKbmRqJMfkPhq3yg5OEdPsE_C9Ntp6aakp7bhcjMmrog9HJl42iGhY4Y8HsZo-Gqzxkg3DEikwYYcXhmd3bScjfvDy4Ty2kmSI7UxdMprp-q384USKTiqPz1eCLMk7TgijYfQXeyQr9Czbc)
+
+Step 4. The glob (centair 0) -> focus -> frame
+
+![](https://lh7-us.googleusercontent.com/ZL-_JYBB-GfpkQ0DFdy9p0x7XA7Fzq3pkKOCV-JR1fyW2Csx_2fbkoaFWrkZqq-zgPqvBa1CCAZs7zA7pTH37D2sIsins1ZflVc-t4lfxaoBGFuM9-OmmHsGY06i4b9vRwvhVo9AA-S8eGkeHKO5stw)
+
+End results;
+
+![](https://lh7-us.googleusercontent.com/Fu5JLSj3cSf-oKe_Ir40xwck37DgBGhyB3o_y9YXTVXtfwa21kRfS0A4ynYrLw95mEICP95hIDQcC3doU_ECwvDrgWEcvXPKfL_8WIbbSwsmd8x2EaoHCOpQOf0RYJ9TjQWTbRS0Yt2FFJ334DsgJVM)
+
+Week 2.
+=======
+
+Day 4. Esp 32 web page set up, bring documentation online. 
+-----------------------------------------------------------
+
+Step 1. download the esp 32; follow the instructions;
+
+ [Installing ESP32 in Arduino IDE (Windows, Mac OS X, Linux) | Random Nerd Tutorials](https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-windows-instructions/)
+
+[arduino.cc/en/Main/Software](https://www.arduino.cc/en/Main/Software)
+
+Step 2.  File system; download (all in zip files); 
+
+-   [Install ESP32 Filesystem Uploader on Arduino IDE](https://randomnerdtutorials.com/install-esp32-filesystem-uploader-arduino-ide/)
+
+-   <https://github.com/me-no-dev/ESPAsyncWebServer>
+
+-   [AsyncTCP](https://github.com/me-no-dev/AsyncTCP) 
+
+Step 3.  File system; 
+
+![](https://lh7-us.googleusercontent.com/HJdy8bdhCLWMOCE65nSQ7PuWJaTHqF8Z1wrHTBd4j06Day9Q2i2yRQxu5nDBadbxSM9A_qVDBvBEP6oguAE1WY5_3LXf9uG6UXGjYX8Ml-BjuxX5IT-PVhbORtz93vGswYxyw19ORz25yNbwsLbaAcA)![](https://lh7-us.googleusercontent.com/1vOlNDE7Ky3IF_fF05tg7Ks1x1sFeqdcf_BqO4Cgu0LDAEDU6yKskzIS8aJAQM-Q_e9dAHJfuCXW9KQctIv_3WUWOP99-uvGQrSL5LZqE-rAiV17MRzYThO9nw0urNdp3FGko8oS9vUfNnoH22EA7GU)
+
+Libraries; 
+
+![](https://lh7-us.googleusercontent.com/3u4bkny2PlzxShcUuNlSwhzfHJv553RBI0UX0a--v4CIbsnKLFQFFuGRNhxpjvIxAXQH_ekgxgJsZHRpYyOYk04TycKkJeDYkdp1nJGMuIZGV34F4l24OkqikwY-NidFDu-IUAZH8BKmZiN7TOiZZYU)
+
+Tool -> ESP32fs -> tool -> esp32fs
+
+![](https://lh7-us.googleusercontent.com/EvvhOCMr78HOGT2nctTE2Qv6GqeszSKnPhAdyPqUF5aKXdho_SnprdXeBrrZEef_SYCjxfhMIbi8fc7QSwxggwSCNV0O_N-EfKF1cHybbisO7lR3J9uZOfPBHt_74GR3XtQiEzaXCFuURtkk2CZ9A2Y)
+
+Step 4. downloading the code; 
+
+[download all the project files here](https://github.com/RuiSantosdotme/ESP32-Course/raw/master/code/SPIFFS/ESP32_Async_Web_Server.zip):
+
+Step 5. File system; 
+
+![](https://lh7-us.googleusercontent.com/_Vkfq7E-wdiUKxMjfSDkbkvnizyYcVkcUHEGXSO0cpaPa6hfjC2jlk9PVRBmfIKOr6FTNxSsQoXLX2JVnfd8pd23c6E1V3FsYvOnarAwl8CEIeFLmL69ww-OeAaBBZ21CC8PZ1qHADhyjLlS4n9d7f8) → ![](https://lh7-us.googleusercontent.com/WkmGHAWT5m9v7-yKj8SBV_nY9uSZRfomegoRNmfRmyeb7q1ngpETxZ_2jPAAOPrSQzcoXdYR-lgUqeMUebCd5b-72s7F4fAZwsgtyNvlkyfdVQ7l5XUHxnXaMXrwANQlWVk8e0ALNJvcA89CyrvDpq0)-->![](https://lh7-us.googleusercontent.com/iKuxD9u-C88IyvSocg64I8_vQJWHKwU6WxlqADstZMDY1lL-wwjoFR6lI-UPjcILCfcAvo-xz52tC2w9_vQI1cTyCTcR2gZ96oWpX2degwCo5at5By9tTQC9v5FES0CYbim1PQ5FR9AjQ2NSg8zLyhI)--> ![](https://lh7-us.googleusercontent.com/gxvHDdgyDlVNXgAWUPlZAtGuwXQ8uzmUOikHRk2FdaUJLilKXmhSjaANLUFmabVv7WwkH7tCQEJn1FWqyAW1QEDEuJ7VIuilvJ7n-er10pmasSUQYbjKWecCFPFegm7Rm3BGXvTimQOWuqeShPeNHmQ)
+
+===
+
+![](https://lh7-us.googleusercontent.com/3lGzmA1TJBJZQcq6fInPVqPgMclt9NpH3Mv0yYmD2Lk-rNAB-dSw3kw517MKbhuIseudEublKl5_PofyhkS0bci2wnv9Ca5AmPzKhVFofaFBmSHFVBagmqY8bsR27W_6NsygYoizoxu4jMJwlCUQOr4)--> ![](https://lh7-us.googleusercontent.com/yYTj8MtFTHtfdYawl4rIF0g0YhgWT1No2EAZTpOL4FAFyr1ii7v7PJUNH6wccR2trGmD19uKWXLfmTaho84FT8uYgT9yAGpV8z9n885xlnvl5NbP-OJDRPZ4RBnTTMxpBt8ZoM9tBSS3ZmcrrQ-KNgo)
+
+Step 6. Coding; file -> open -> code -> esp32 -> tool -> esp32 sketch data upload -> upload (after done) -> open seriallmoterer -> press EN on the esp -> and copy the code in google 
+
+![](https://lh7-us.googleusercontent.com/qNo_fjLxq9zFW9UZRMt65S_WXNX93GNZX8XSMwKCi1SF4W_WpoxeUJjUXyZLnrVDLmHwQaOUqiXImHMif4E9ZXTPWHjTU8FWs6idxbioLhT22oW5feqdTl7VTd8tfa-QRaodZrL2GfbNOrVVdyWSFrI)![](https://lh7-us.googleusercontent.com/B7dzr0AaLSVaB0vmI56YD-uHKGFIBfre4qSo1Obwef6G1yg-xrcRHX5hOaCQKbNFtxrHLyz-vbuFyGPXfjw8Xfuw-sLBQwUxwPZCV-b5kt-eHx0zl69u3Ro7aFw45i8JHQwy7YfK0kRhXOY4tpo6NLM)
+
+![](https://lh7-us.googleusercontent.com/DEY7kJxV_6eZEzRugNwAycdHch1dkS_227H8IUgcpAJZNWyXlhjmBVXum5ulpAL5igyNc7-EBTekeyBWvbxwEYd3SU5uGjxOjs-F-EzfZSBIR-i0JSuyeMh6IQ56cAegPvkZOpb2pnw1ONjFqO8CRG8)
+
+![](https://lh7-us.googleusercontent.com/4xaZmNEVnPSLnmShYJptccMWKxSn8eZnhc-Vk2a8KN8pk1_ZPh1JgTWzJ-AykVf7YirDf56a7CxZiRWPpbE6XRSEL7x1K6vp5srfrCnZaZ6b04PKecMnjpGVVluUlVlgi1EaW3remvO2V73zAJ1sts8)![](https://lh7-us.googleusercontent.com/GrTIEtE2bkWH39RqaKwYbxPfqYhuispBU47DwGpaeuNxmC4ngQOJk-_HIRbNV8t7IQj18zRf9b50jZYqewo0vWzWp5IeEGNLj1_v5Anhw6dxZKgZjgMsLc9jgRWA-NbXqOk9CQwBaegr4m8ok6hI-nQ)
+
+Step7. Code; 
+
+|\
+#include <Arduino.h>\
+#include <WiFi.h>\
+#include <AsyncTCP.h>\
+#include <ESPAsyncWebServer.h>\
+#include "SPIFFS.h"\
+#include <Arduino_JSON.h>
+
+// Replace with your network credentials\
+const  char* ssid = "Nier_Home";\
+const  char* password = "Nier1234";
+
+// Create AsyncWebServer object on port 80\
+AsyncWebServer server(80);\
+// Create a WebSocket object
+
+AsyncWebSocket ws("/ws");\
+// Set LED GPIO\
+const  int ledPin1 = 12;\
+const  int ledPin2 = 13;\
+const  int ledPin3 = 14;
+
+String message = "";\
+String sliderValue1 = "0";\
+String sliderValue2 = "0";\
+String sliderValue3 = "0";
+
+int dutyCycle1;\
+int dutyCycle2;\
+int dutyCycle3;
+
+// setting PWM properties\
+const  int freq = 5000;\
+const  int ledChannel1 = 0;\
+const  int ledChannel2 = 1;\
+const  int ledChannel3 = 2;
+
+const  int resolution = 8;
+
+//Json Variable to Hold Slider Values\
+JSONVar sliderValues;
+
+//Get Slider Values\
+String getSliderValues(){\
+  sliderValues["sliderValue1"] = String(sliderValue1);\
+  sliderValues["sliderValue2"] = String(sliderValue2);\
+  sliderValues["sliderValue3"] = String(sliderValue3);
+
+ String jsonString = JSON.stringify(sliderValues);\
+ return jsonString;\
+}
+
+// Initialize SPIFFS\
+void initFS() {\
+ if (!SPIFFS.begin()) {\
+ Serial.println("An error has occurred while mounting SPIFFS");\
+  }\
+ else{\
+ Serial.println("SPIFFS mounted successfully");\
+  }\
+}
+
+// Initialize WiFi\
+void initWiFi() {\
+ WiFi.mode(WIFI_STA);\
+ WiFi.begin(ssid, password);\
+ Serial.print("Connecting to WiFi ..");\
+ while (WiFi.status() != WL_CONNECTED) {\
+ Serial.print('.');\
+ delay(1000);\
+  }\
+ Serial.println(WiFi.localIP());\
+}
+
+void notifyClients(String sliderValues) {\
+  ws.textAll(sliderValues);\
+}
+
+void handleWebSocketMessage(void *arg, uint8_t *data, size_t len) {\
+  AwsFrameInfo *info = (AwsFrameInfo*)arg;\
+ if (info->final && info->index == 0 && info->len == len && info->opcode == WS_TEXT) {\
+data[len] = 0;\
+    message = (char*)data;\
+ if (message.indexOf("1s") >= 0) {\
+      sliderValue1 = message.substring(2);\
+dutyCycle1 = map(sliderValue1.toInt(), 0, 100, 0, 255);\
+ Serial.println(dutyCycle1);\
+ Serial.print(getSliderValues());\
+      notifyClients(getSliderValues());\
+    }\
+ if (message.indexOf("2s") >= 0) {\
+      sliderValue2 = message.substring(2);\
+dutyCycle2 = map(sliderValue2.toInt(), 0, 100, 0, 255);\
+ Serial.println(dutyCycle2);\
+ Serial.print(getSliderValues());\
+      notifyClients(getSliderValues());\
+    }\
+ if (message.indexOf("3s") >= 0) {\
+      sliderValue3 = message.substring(2);\
+dutyCycle3 = map(sliderValue3.toInt(), 0, 100, 0, 255);\
+ Serial.println(dutyCycle3);\
+ Serial.print(getSliderValues());\
+      notifyClients(getSliderValues());\
+    }\
+ if (strcmp((char*)data, "getValues") == 0) {\
+      notifyClients(getSliderValues());\
+    }\
+  }\
+}\
+void onEvent(AsyncWebSocket *server, AsyncWebSocketClient *client, AwsEventType type, void *arg, uint8_t *data, size_t len) {\
+ switch (type) {\
+ case WS_EVT_CONNECT:\
+ Serial.printf("WebSocket client #%u connected from %s\n", client->id(), client->remoteIP().toString().c_str());\
+ break;\
+ case WS_EVT_DISCONNECT:\
+ Serial.printf("WebSocket client #%u disconnected\n", client->id());\
+ break;\
+ case WS_EVT_DATA:\
+      handleWebSocketMessage(arg, data, len);\
+ break;\
+ case WS_EVT_PONG:\
+ case WS_EVT_ERROR:\
+ break;\
+  }\
+}
+
+void initWebSocket() {\
+  ws.onEvent(onEvent);\
+  server.addHandler(&ws);\
+}
+
+void  setup() {\
+ Serial.begin(115200);\
+ pinMode(ledPin1, OUTPUT);\
+ pinMode(ledPin2, OUTPUT);\
+ pinMode(ledPin3, OUTPUT);\
+  initFS();\
+  initWiFi();
+
+ // configure LED PWM functionalitites\
+  ledcSetup(ledChannel1, freq, resolution);\
+  ledcSetup(ledChannel2, freq, resolution);\
+  ledcSetup(ledChannel3, freq, resolution);
+
+ // attach the channel to the GPIO to be controlled\
+  ledcAttachPin(ledPin1, ledChannel1);\
+  ledcAttachPin(ledPin2, ledChannel2);\
+  ledcAttachPin(ledPin3, ledChannel3);
+
+  initWebSocket();
+
+ // Web Server Root URL\
+  server.on("/", HTTP_GET, [](AsyncWebServerRequest *request){\
+request->send(SPIFFS, "/index.html", "text/html");\
+  });
+
+  server.serveStatic("/", SPIFFS, "/");
+
+ // Start server\
+  server.begin();
+
+}
+
+void  loop() {\
+  ledcWrite(ledChannel1, dutyCycle1);\
+  ledcWrite(ledChannel2, dutyCycle2);\
+  ledcWrite(ledChannel3, dutyCycle3);
+
+  ws.cleanupClients();\
+}
+
+ |
+
+Step 8. Go to the website -> right click -> inspect -> open data folder -> style (edit the coller) -> index (changing the text)
+
+![](https://lh7-us.googleusercontent.com/ZPxIKwUU6T5dKMDcZi3pMGNNMol4QXU0rULozWy3SLr6BBf0T-u9zlwy1Y2HExG5ue9xtT0oklgaHfwMIfm0jP-EWZ7OYOkTj25Cxx1n46hnELBCB2VoD8Oj65Kavq65nBJE2NRkY4SriHRek5qE348)
+
+![](https://lh7-us.googleusercontent.com/IhiK4kPelOppIjnWF-LNEDGE01HzJmJOSUFP0Vn0vAFNAE5PpxT342JJoyZ0yYb5vd8IYYdGoXjvA5HRB-Dn_9lyYpCwtOEFG0otXPJ0Ir2RZY5SpkRPoDFprIGlNSIWs13B1XpFod0M1ivwC9KdPZM)
+
+![](https://lh7-us.googleusercontent.com/P1QrSd1vU1EpKYLfgShYvGJSdFanVYNHuEZ1jTssGpVnS3Xkgy74WFQDRUXgAjmToWGPOkygeXLaayotLHrG92S1jk5YXx2DJ7f0mHvJ0nZQm7vrQdnXU7pacuxq7iNwCy2M936Sgm_RsUlAqe3d9Uk) 
+
+![](https://lh7-us.googleusercontent.com/B7dzr0AaLSVaB0vmI56YD-uHKGFIBfre4qSo1Obwef6G1yg-xrcRHX5hOaCQKbNFtxrHLyz-vbuFyGPXfjw8Xfuw-sLBQwUxwPZCV-b5kt-eHx0zl69u3Ro7aFw45i8JHQwy7YfK0kRhXOY4tpo6NLM)![](https://lh7-us.googleusercontent.com/-8KFJfPKZtvleRAcw7cxp02s-GsNUulwbW_wBnM8cqC-M7qEzHE0U8YDqnHNDNrEf3TVDiNZEb8KYcKFDWdvFHaA5JWY_rywf7dA-dU04ALhF3wMKgkOfGok8z3gR7exJ3zHZRhEvRDXGBgMcv_9ILU)![](https://lh7-us.googleusercontent.com/N1v9OYCAOkhfMYFCOot4Nd45m7E_HlmHw_qBzNR81VaJe816YUcP8rMUn4ec_shOiPK3pmNwb98TG0RbUgz4ljTautMWc_7nodmWEqWicoF21ZENiPJ0NXQHkXmLuAgUwU8-RMefYOCynIZZ-FJMGyI)
+
+Changing the colors; <https://htmlcolorcodes.com/>
+
+End project; 
+
+![](https://lh7-us.googleusercontent.com/sRdrUrvJAhH0y9uHACUS6u7Enmwh3E5EZr0KmMcyzm-mYsiCiyYafLarTFHGszD8Ox7s9d_DqLaQ7uVlETkWdb7CMTVTKTfBIvIikqVu48FH0yF_W4Vzh1Xy-pcyWSBGAMVGzFicaKb5rZn8hFoWaG0)
+
+Day 5 bringing your documentation online via github and getting files ready for embroidering. 
+----------------------------------------------------------------------------------------------
+
+### Documenting to online github
+
+Step 1. [Paste to Markdown (euangoddard.github.io)](https://euangoddard.github.io/clipboard2markdown/) open -> and past docs in there -> copy that and paste it in your github account. (is so that you can see your pictures online
+
+Step 2. Markdown (copy)  -> your online file in github -> view file -> go to main -> edit (past text)
+
+![](https://lh7-us.googleusercontent.com/BaCg-FXzfTBokzy9UFB_0mKmpQFIN7NKxaYC6kmy7B_Fn_DvWeRF9LciFcfWUYsqLLgu6fz2VbeAQit4m8r7uXzaQ3Q8b94Ovj8LbwFj2iQf15Vpt4rv7hXa0wqEmCOFXYM_h2yEeMRlzCUa9a6HNwU)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![](https://lh7-us.googleusercontent.com/QZ7Mc9ntI_D8JH8qsrZA6Gp49D_vh1Hd5LvApffuMh3fpImdNf0M57LhHtqHRxPVQ3pfaIQE-wOUVNb7h292GaSnJaJY_C7UnAqhXRKWbjKSK7tKrBQRmJMxTaGH83BCxFf1VEZxGurLOEhwbZ7NR5s)
+
+![](https://lh7-us.googleusercontent.com/-Evio7fgc_2xhTdwIrWvH2hk0lt_M1tdlnzyWh1vEfcXKB9aJMow5iBeKkg1Bv4SiCX4KWAQqNdiiRp6vKZt8EW4hsXfJu96G7CNi2ULHLHvqccXsLCAIXvfZWqQK1c6npO3VwFA6p2vaczASKXmvVU)
+
+![](https://lh7-us.googleusercontent.com/qpgaGxpIVWBHolhmjCm80ilE8jDwAnWIQlOV3ICGRoXtXHGv1xXceSyUTroYfL01-7t8vtKDhEdEpEF9WPpBG3bEvLCxGTR0Nd0ZXDpalHHWV6Np5zMdQ9g00F09G-mFhI_2Ro6wZpUzi4IYG3T8cxQ) 
+
+![](https://lh7-us.googleusercontent.com/2mZkmHO25J0e-6tRkfIF5kl7wEUBfTbjz_5dVHFdPICbI1Feb68RtEFAiZUxwa94fumB8uIt6wY3hjXkkiOlIKyZ0f_Qiy8vu7Eo_C2amUKpZYYprqNqfZNFdtf9GsuImn7W4pQlb3VNfgmPl7FVbjM)
+
+Day 6. In lab session;
+----------------------
+
+### Embroidering ;
+
+Step 1. Follow; <https://cdn.poconosewandvac.com/web/products/instruction-manuals/pdfs/brother/se1900/se1900-instruction-manual.pdf>
+
+Final product ![](https://lh7-us.googleusercontent.com/-bObc4uI6cTxlG8IbzZ4FUJVT4sWgkbxgyT-UzT_0hfY1EHCm8asZOw5puB18YMFlt3JYvR-LA-cEK9-lOoxZ-8qJS2Upt0jKnJi31T5UIeTKx7716XRClIU8FfqT_59Yi2KDjHjBSyiP7a-RrPMaE8)![](https://lh7-us.googleusercontent.com/dJLQO_KPl-Jj6dyzV1qkLgPtn4SeX9ioqFv-iw1zxPJ8K5T6r13lgK_eo364Sn1mLBXtDpsEfh_m-r3j_4qcnqXsw6y-GI8Rvcszc0CCzv_-uPFItzNKzquFMukMrMvjA4vOy_KOuVeDPK1BEoRprKk)![](https://lh7-us.googleusercontent.com/OE2diA5owRSlEvO8lCdevYXkTtFu1pQV-_iiWcPk0uczM_t0tiSpPQ10w3giO1wHokDSOKpx-Z9M0w0MBUTVBe0X0SdUQmecDRkUyOK0hTOZcuphafHeilfmHX_NJz7z6gCCBdCW1qECXCm3FKp1MgI)
+
+### Sliders
+
+link ; [https://randomnerdtutorials.com/esp32-web-server-websocket-sliders/
+
+](https://randomnerdtutorials.com/esp32-web-server-websocket-sliders/)
+
+Step 1. Explanations; 
+
+-   Sending commands to dim/brighten the led lights, and saving the information so it can be sent over to the other person.
+
+-   The server (ESP) receives the slider number and corresponding value and adjusts the PWM duty cycle accordingly. Additionally, it also notifies all the other clients with the new current slider values---this allows us to have all clients updated almost instantaneously.
+
+![](https://lh7-us.googleusercontent.com/6XDwvCffvR321jHUsSe7yh0XXyqr06QnvXdQANhUMGoufjgCmYqYvpPOok9FRbbOH1YGNWvA0N2-Y6q-w9ZmgvmjRc41NPr2iHJTjL-qi3r7fhLMSNOXlYBneaWZ00NFNvo2REspmeY5rnMUPouHB70)![](https://lh7-us.googleusercontent.com/0F9Cs9uHTTX91M_leUUKl9tryOQMZ6j7nExwohk6MzqIR_q0wh__ZoawkzyAE-lQWoVv5fXIeWaiIfvjfwzIdQcbywBKnKI4vEzRFDZBS4afXTTT9GytS1DDz9ZnpGAtIJXbwMfUqYib13OJdm-eqs0)
+
+Step 2. Download  Libraries
+
+-   [Arduino_JSON library by Arduino version 0.1.0](https://github.com/arduino-libraries/Arduino_JSON) (Arduino Library Manager)
+
+-   [ESPAsyncWebServer](https://github.com/me-no-dev/ESPAsyncWebServer) (.zip folder);
+
+-   [AsyncTCP](https://github.com/me-no-dev/AsyncTCP) (.zip folder).
+
+Codetes -> code -> ESP32_Multiple_Sliders_Web_Server -> ESP32_Multiple_Sliders_Web_Server the code will open op. 
+
+Step 3. Components; led, breadboard, esp and m2m wires. And assemble them; 3 leds ; short part = ground
+
+Long part = connection to the esp
+
+And esp ground to esp breadboard
+
+Step 4. Copy the code; 
+
+|
+
+#include <Arduino.h>\
+#include <WiFi.h>\
+#include <AsyncTCP.h>\
+#include <ESPAsyncWebServer.h>\
+#include "SPIFFS.h"\
+#include <Arduino_JSON.h>
+
+// Replace with your network credentials\
+const  char* ssid = wifiname;\
+const  char* password = pasword;
+
+// Create AsyncWebServer object on port 80\
+AsyncWebServer server(80);\
+// Create a WebSocket object
+
+AsyncWebSocket ws("/ws");\
+// Set LED GPIO\
+const  int ledPin1 = 12;\
+const  int ledPin2 = 13;\
+const  int ledPin3 = 14;
+
+String message = "";\
+String sliderValue1 = "0";\
+String sliderValue2 = "0";\
+String sliderValue3 = "0";
+
+int dutyCycle1;\
+int dutyCycle2;\
+int dutyCycle3;
+
+// setting PWM properties\
+const  int freq = 5000;\
+const  int ledChannel1 = 0;\
+const  int ledChannel2 = 1;\
+const  int ledChannel3 = 2;
+
+const  int resolution = 8;
+
+//Json Variable to Hold Slider Values\
+JSONVar sliderValues;
+
+//Get Slider Values\
+String getSliderValues(){\
+  sliderValues["sliderValue1"] = String(sliderValue1);\
+  sliderValues["sliderValue2"] = String(sliderValue2);\
+  sliderValues["sliderValue3"] = String(sliderValue3);
+
+ String jsonString = JSON.stringify(sliderValues);\
+ return jsonString;\
+}
+
+// Initialize SPIFFS\
+void initFS() {\
+ if (!SPIFFS.begin()) {\
+ Serial.println("An error has occurred while mounting SPIFFS");\
+  }\
+ else{\
+ Serial.println("SPIFFS mounted successfully");\
+  }\
+}
+
+// Initialize WiFi\
+void initWiFi() {\
+ WiFi.mode(WIFI_STA);\
+ WiFi.begin(ssid, password);\
+ Serial.print("Connecting to WiFi ..");\
+ while (WiFi.status() != WL_CONNECTED) {\
+ Serial.print('.');\
+ delay(1000);\
+  }\
+ Serial.println(WiFi.localIP());\
+}
+
+void notifyClients(String sliderValues) {\
+  ws.textAll(sliderValues);\
+}
+
+void handleWebSocketMessage(void *arg, uint8_t *data, size_t len) {\
+  AwsFrameInfo *info = (AwsFrameInfo*)arg;\
+ if (info->final && info->index == 0 && info->len == len && info->opcode == WS_TEXT) {\
+data[len] = 0;\
+    message = (char*)data;\
+ if (message.indexOf("1s") >= 0) {\
+      sliderValue1 = message.substring(2);\
+dutyCycle1 = map(sliderValue1.toInt(), 0, 100, 0, 255);\
+ Serial.println(dutyCycle1);\
+ Serial.print(getSliderValues());\
+      notifyClients(getSliderValues());\
+    }\
+ if (message.indexOf("2s") >= 0) {\
+      sliderValue2 = message.substring(2);\
+dutyCycle2 = map(sliderValue2.toInt(), 0, 100, 0, 255);\
+ Serial.println(dutyCycle2);\
+ Serial.print(getSliderValues());\
+      notifyClients(getSliderValues());\
+    }\
+ if (message.indexOf("3s") >= 0) {\
+      sliderValue3 = message.substring(2);\
+dutyCycle3 = map(sliderValue3.toInt(), 0, 100, 0, 255);\
+ Serial.println(dutyCycle3);\
+ Serial.print(getSliderValues());\
+      notifyClients(getSliderValues());\
+    }\
+ if (strcmp((char*)data, "getValues") == 0) {\
+      notifyClients(getSliderValues());\
+    }\
+  }\
+}\
+void onEvent(AsyncWebSocket *server, AsyncWebSocketClient *client, AwsEventType type, void *arg, uint8_t *data, size_t len) {\
+ switch (type) {\
+ case WS_EVT_CONNECT:\
+ Serial.printf("WebSocket client #%u connected from %s\n", client->id(), client->remoteIP().toString().c_str());\
+ break;\
+ case WS_EVT_DISCONNECT:\
+ Serial.printf("WebSocket client #%u disconnected\n", client->id());\
+ break;\
+ case WS_EVT_DATA:\
+      handleWebSocketMessage(arg, data, len);\
+ break;\
+ case WS_EVT_PONG:\
+ case WS_EVT_ERROR:\
+ break;\
+  }\
+}
+
+void initWebSocket() {\
+  ws.onEvent(onEvent);\
+  server.addHandler(&ws);\
+}
+
+void  setup() {\
+ Serial.begin(115200);\
+ pinMode(ledPin1, OUTPUT);\
+ pinMode(ledPin2, OUTPUT);\
+ pinMode(ledPin3, OUTPUT);\
+  initFS();\
+  initWiFi();
+
+ // configure LED PWM functionalitites\
+  ledcSetup(ledChannel1, freq, resolution);\
+  ledcSetup(ledChannel2, freq, resolution);\
+  ledcSetup(ledChannel3, freq, resolution);
+
+ // attach the channel to the GPIO to be controlled\
+  ledcAttachPin(ledPin1, ledChannel1);\
+  ledcAttachPin(ledPin2, ledChannel2);\
+  ledcAttachPin(ledPin3, ledChannel3);
+
+  initWebSocket();
+
+ // Web Server Root URL\
+  server.on("/", HTTP_GET, [](AsyncWebServerRequest *request){\
+request->send(SPIFFS, "/index.html", "text/html");\
+  });
+
+  server.serveStatic("/", SPIFFS, "/");
+
+ // Start server\
+  server.begin();
+
+}
+
+void  loop() {\
+  ledcWrite(ledChannel1, dutyCycle1);\
+  ledcWrite(ledChannel2, dutyCycle2);\
+  ledcWrite(ledChannel3, dutyCycle3);
+
+  ws.cleanupClients();\
+}
+
+ |
+
+Step 5. Open code -> change; const  char* ssid = wifiname;\
+const  char* password = pasword;
+
+-   Select port
+
+-   Sketch data upload
+
+![](https://lh7-us.googleusercontent.com/Gc1s1E5RU1Vu90ZNHcM-evEYfgdl3L_rdHo5oG2sEB8CxVCdHBFDKN1HSSMirEFZ9VsSiegovChr9gPEaz_5caYbsm_dfl_RGAVDqgX4cO1b9B38sPKvvsV87PXB8RkI8ZqJfSmNBGUxvS2YVBhqDZA)
+
+-   Upload
+
+-   Done upload 
+
+-   Open serial monitor 
+
+-   Press 'en' on the esp 
+
+-   ![](https://lh7-us.googleusercontent.com/szLYpmf-Vq-FE8F12cAmtA5igTxASHtQFDkp1-2mzpbbpekkGmziBGteWLoWVE5puJwMY6_ODLvLyFK_5KvlACfvnhIwS9wIs_H_-XsRtu5NgYIDZGLqBl7RJCFrlp8FJiSmJbwdyUSPZQwfOX4rAC0)
+
+-   ![](https://lh7-us.googleusercontent.com/9GCSOkdbIoajbntXgTwtOY-o2N7Zoe12qQc1I627FpZX4RUcq4Se-sZ64qxpZrcDbT-lhutUcdpnl0OSf6eVlSx9WJOgcuiFOADgfDajVS_4Sf0aXF12hUIhkvQCFJL3SxVvN4V4cres5P_VxDHtRbg)
+
+https://docs.google.com/presentation/d/1zuEf3y4Oy9SaBFQ6zpibHRDN-915ld3mNl-G0_S1qAY/edit?pli=1#slide=id.g21126694d42_1_0
+
+Week 3.
+=======
+
+Day 7. Documenting and going thru the code
+------------------------------------------
+
+### Pointers for documentation; 
+
+-   Codeblock ; extensions (google docs) -> code blocks (will make the code look neat and you can copy it).
+
+-   Use more words to explain 
+
+-   Make the pictures look neat
+
+### Going thru the sliders code;
+
+-   CSS; cascading style sheet 
+
+-   The server and the 'clients' are talking to each other.
+
+-   Async Websocket ws; 
+
+-   Wc; broadcasting messenger.
+
+-   Async; communicating with the web page.s
+
+-   Websocket; broadcasting data.
+
+-   Aep Async Web Server; syncing esp to web server.
+
+-   spiff's; front end pages.
+
+-   Const int ledpin1 = 12
+
+-   Led = esp is 12
+
+-   Const; it will always be like that.
+
+-   Sting message = ""; -> contains string data. 
+
+-   Duty Cycle; percentage you led is on.
+
+-   Need to add what frequency its on.
+
+-   Jsonvar; value coming in from the slider.
+
+-   "!" -> not
+
+-   Ip -> Internet Protocol
+
+-   Local ip -> is like your phone number on your network
+
+-   Using to go to your esp32 webpage
+
+-   Vs; board cast 
+
+-   Void notify clients; to 'text; everyone ab the status of the slider
+
+Day 8. Lab day 
+---------------
+
+-   >   viynal cutter and pressfit
+
+### Figuring out how to use a viynal cutter; 
+
+Step1. First download; <https://canvasworkspace.brother.com/en>
+
+Log in and open;
+
+![](https://lh7-us.googleusercontent.com/-hlvlfDbqQ_1lHifk5iyMiVXgT6ieBz0O95U1g1oUkt9T63cw_3_f-2ktVeienVxtSJTTvLdelf4kbXTjYz9IZO0TOQ1uW6wVcyeFGc_L6fglvrNnMTqpBNBP9qr9REmykRusUA2cSYu1bxBKNOHQvY)
+
+Step 2. Playaround and make a design;
+
+Anything you would like;
+
+![](https://lh7-us.googleusercontent.com/1KmK2ax_2G4cas-8T-P2D_cOtd4ziyZJGXRpucKKs_8iviEehxa7OibmhgImQLyriLMCdPchJiTBHImZ-O4k7nG_CxbvR5QABHejDt0ipw9A3KLZJBG0kMw9JWh-ME1cveehNrwS7VD2Udnn2dSemmM)
+
+Using the brother maschine; 
+
+![](https://lh7-us.googleusercontent.com/CeVUFRuh1pCvshNqOHwe7R4LE6mgRcrUqvy2ASEXAUOFbAcqVk7LRtQeBm_CWPwD2jLTRWzlPgOZ55D-XmUQoswdhIV98vltDYEP-IuSedZctivVk0VzqQgWTrjJ4eopbvDkO4bBT8jy-0zNvwOhzHc)
+
+-   Set the template (block paper)
+
+-   Make sure that the ero facing that machine is facing upwards 
+
+-   Peel the protective sheet 
+
+-   Attach the cardstock onto the mats adhesive 
+
+![](https://lh7-us.googleusercontent.com/vKulQGoU1tXTnrOAa7c9tvnYNkimQLfjtcLQ-knHkfuEj4kcTGnNkAOMyq1UnC5xG79MkaJHB15pYfRzOMZIuneg5Qba-y3EzeTPtli8EqIbJcO-0Q_17-81vW6MX277GdMrTHIN7K58nh7iQUKbpPA)
+
+-   Open the bag with the pen in t and place it in the brother logo facing forward 
+
+![](https://lh7-us.googleusercontent.com/sre-XduqFqKYyXOps2Rx7Zqklhs0AoY-8eEljEhoA_fsNSgPTcN2bAXsqkQMpI6K5fLmOZhGw4UjsF4Twkg_Aeor2iAYzy_AF9SiLl_n1TcsNyXiq2O3UEBWOmTWMGf3aANvJR43AqBy4pRJPytPxfc)
+
+-   Start up the lil screen and find a design place/ edit it 
+
+![](https://lh7-us.googleusercontent.com/RJmPVjJojEx4JYXZxMbT2VftJCPmpsxhuJTROJogOkthBTGSqRtI2kiQsliwzBRCUoM0BB6WDKbch05l8NnuB4bM66TNWnm_pvH2owAPs06RJadqksaDHStnHCoPBtA6318pUyo3MMVnEf2DIOA8xjg)
+
+-   Draw -> draw -> ok-> press the button with the matt
+
+![](https://lh7-us.googleusercontent.com/dF6grmgXIPOXztRmCf6L2gg7OsygLEP7KZpXW7iICaarRmgLEOGzbbXlJzZfaILMwg2j2rJV4WyoVqLhx_qX5lfprQ6BVL7Vo0rBHsieSrelkGHYjIFvnamrkQJxys6OfmokMU6C6pWMsQYUe3vVc8g)
+
+-   Then strat and it will draw
+
+Step 3. Change  the pet to the cutter and follow the same steps; only when selecting select 'cut'.
+
+End project;
+
+ ![](https://lh7-us.googleusercontent.com/CfF7M5UQ-uN3Mz0viBBatBUVH9jQ-KaF4Hc_IPiN7yfuH6alSaRczKWfU2GM1SH19PYoWwHqLFW8Ry00QRC1g48IsPg_T7J3jvQUPQPHQVQcAcuWbqEfQObwSEtgsdJ6EzHLhmedbbR1UNJLhFFB9Oo)
+
+### Pressfit; 
+
+[CB_4&5_CAD-CAM-ATOMSTACK-LASER - Google Slides](https://docs.google.com/presentation/d/1ZlQGtluOQ0iUxE3oE48aVviw4-9uasfdP-FtaDrWJOM/edit#slide=id.g1e488fb2fe1_0_15)
+
+On tinkercad make a design; 
+
+![](https://lh7-us.googleusercontent.com/CzyZlU7x-NP2cWBSmyY2tf_aVRPx4QhpltzUcqDRVOG1Rl2JzZHW15NbGwnHYN-wgK9fdtxsTagGhfShD5DnfAmhNnlzPFr1vnjq7m0aqICa8P3eqze0U3a1EnXv0JlUuvycxuslFEStyKAMrzN8bkc) 
+
+Step 2. Select the items-> export -> .svg -> open it in inkscape
+
+Step 3. Get the lazer ready (see day 3) and start.
+
+Final project; 
+
+![](https://lh7-us.googleusercontent.com/5Uj2G5pl8OSQ5yVxthGkGDvwTVkGIQ5R6v7vNIVtMNzVuNUfubx2JurfsxIuFSAmfy3hDg3mumJ5YHPOg1lZxyOdWw4AUicNLIJQJ2Q5L82CrfgycbQJWgELE8a9E4CbQxtCyV6uFuWPOibmowVJbhc)
+
+Week 4. 
+========
+
+Day 9. Freecad, making a block and text 
+----------------------------------------
+
+[CB_4&5_CAD-CAM-ATOMSTACK-LASER - Google Slides](https://docs.google.com/presentation/d/1ZlQGtluOQ0iUxE3oE48aVviw4-9uasfdP-FtaDrWJOM/edit#slide=id.g1e488fb2fe1_0_15)
+
+[MakerCase - Easy Laser Cut Case Design](https://www.makercase.com/#/polygonbox)
+
+[CB04_CAD_FreeCad - Google Slides](https://docs.google.com/presentation/d/1MVunLQO-r8Q7QjfY7G7pXnOw5sMphoYQ44ZrWpo9BrY/edit#slide=id.g14265ad8aa9_0_5)
+
+Step1. Spreadsheets -> to presave pattern![](https://lh7-us.googleusercontent.com/qjkvXDeTpZpiHBnxbQMAvBhrzaZkK1hJ-D5aHdvqRkR7WfwwNFGwDyd2sieW5d9-C4jpzgNABYkj2by4xpkS6nRP-BUfjgpAdS_zT-Q7rHpZ6tn7P-CUN98gIs7heqKdXm_5RJw2D3mL73wxDkTOn64)
+
+Step 2.  -> start ; spreadsheets -> spreadsheet -> create spread.
+
+![](https://lh7-us.googleusercontent.com/brxdpL0kAkFgKrYfEKY9mlAqFz9q9lGX-MloLR-Ch_pWtY5btRgyqukJI4ryjJjH2puaCHu3LFw9iIL5ztmp6t3msfLLDvRZRzilhd1-e_nTqPV8pZw43EWnPoH1J2NVyRQz8q4qLm6u2WOu9JAlHHA)![](https://lh7-us.googleusercontent.com/z1i1h-YxK6fG-gaxb24SyWppGRn72M45PiACBCX6jC96inWAgvKBBe5M3lxw8cdCnR26BsaptrJseDZ5XEXlJ3Ec9FNBn5dJXwy_7_RoKKAzekJDU1ko4fsdFsT5DANXtACvk8MoJNK_FDGE30NIvCw)
+
+W; 100
+
+H; 100
+
+T; 15
+
+ Step 3. Right click on the number -> properties -> w -> allis; same name -> display units; mm
+
+Step 4. Workbanners ; part design -> create sketch -> press xy_plane -> okay
+
+![](https://lh7-us.googleusercontent.com/XFSL1GIHky1_hBNIrHqSMLHDt18DJ12C7dYF-KhT-FGmqEcLKDVSsWY0E0jLdzCA7SRyPxFC9K0u5HHOr6AcGXmogQSkxOUNLf5SEPrscS8FTlOyBGWLwF0xvUrvh9CnzNYAxofwagLN7B4zL_skM_c)-> 
+
+ ![](https://lh7-us.googleusercontent.com/Uz8DKJ8sTofIm_AqxR7V7QssE4rjT6GOb16RfOReMXq4MBHGf-yXa0wcJeGjUecnNco6mk3pnF-5uEa73UdvBzqYdxreDYTS2ipaDH_cESZfz1r2wE3BwVTh5Pf7xvQhjE6InK69Or-cno7sKE9mi8M)
+
+Step 5. Creat rectangle -> right click -> sise and right click again
+
+![](https://lh7-us.googleusercontent.com/jMCRr3b0nmbxJ9HlJsSBH6Vrc8Tr7bAs60QhA42c6axiZN0J1ZpsECS8xCMjEpWMK1Q_qgVuUzwT5kzSNNAwioxpGZkc9g7o8r3X9q1TrpEcmplww59me9ySn5MWFCdNWzlzuzSb4T62doYxjOeCo74) 
+
+![](https://lh7-us.googleusercontent.com/VQVjT8tPaY7ng938podeqE651Q-XlotzuHEyjg11ialCiIEr-WudvcYMYTYkYSwguWWyAatDtt70ptNCFzzjeP20hc4SY2htpGhp1MugEx197c_BSw8RpyPAxFuSfQFc4XX2HS_iWrpXyZHFyYt4dpM)
+
+![](https://lh7-us.googleusercontent.com/ASOMHizYhV8xrzpfJokKD7quHMrQ-3J7mFBc2VZvwyFtfluT9Gah_NYWOJIVK-q0FokmoqGJUMymwEH9Udx4Vd37rdbO4nKu7vZTLRjkeD57ZQt9yKAb6uQCUhiSfFFDaM4qLIE14lz9HxokKaun9JU)
+
+ Drag it to the horizontal lines and you'll see insert length, press the blue circle and look for pereamitor. Wight (same spelling). And it will be sized accordingly
+
+Step 6. Look for constrain vertical distance -> safe steps as before 
+
+![](https://lh7-us.googleusercontent.com/DGUJMksUISEeewkWGcL2-xD9cfhV35J9oIMW1CH_TiOv9Td-eqLUuZT_zB19HCOrfdXbsqaEcmXbz3GSB3zmoHxPZJ4kCPrvGXdJFqpw3otV1ZW5lQk4_xA8PvipyrpQ5dABWkimLh70TTiv5QhauVU)
+
+pereamitor. Hight (same spelling). And it will be sized accordingly
+
+![](https://lh7-us.googleusercontent.com/xAFmIyvQsoHCtcDkvNJ4xGzf3Z8SDhgvErmionEWeDnIJUqMkWH9M6TsEKx6N6bocVY911IsbU5NWYiv37w4MvtIbpGvQfFNxIUIYkntDMkvRyWFx6El1_V98I2HzPo8KT2DcOwzl2MkktIEoKHGkKU)  ![](https://lh7-us.googleusercontent.com/7PV3ryDqbtfQSr9Sr3v-V0_pCpNotbhVKxMJe0YH8T6eEIOijiM2zLnQy9qFfmKWshh9_imBLw2ehiPZN5W--WWPTGctXmc_sIARCjZ1mtbQypzBG3oFNgC53R-aiwSH97Edu0axjLLUuKtPkMuH29Y)
+
+Step 7. Close your task -> port design -> sketch  -> pad ![](https://lh7-us.googleusercontent.com/Fu0kvhqRg2vUPpKqN1TSZs0ItE_xiktW664YerzcL49buTy7dCxV5phpHUf6tbbwegXvmk17vegsG89ZOxSIjW_pvuIRhxvA4ovhvmM5CoM9STNTB-TSCcMf2AJeL_H1IapngcfDDPdnm_euO-kOXJM) -> ![](https://lh7-us.googleusercontent.com/hmuPXzABTdzKeigLCePdG-VT9q6Et46tJgDdxM_mOTk_CFMLLBY7sKpARJP_8u__5BKC8-6cmctendSbVdiRykLQemXKOdwG0ZKoK6wSrTOrejcXcvpiQVU24i43kOgY9mH9gtqZ9jgsyhpXWB-LFn4)
+
+Step 8. Adding text; draft -> ![](https://lh7-us.googleusercontent.com/wpHngfDm9vw8kPwE-4vrKYzlv7zDRoOgmPKM23jDtvQPWeNgC-GpfZs2wAX5p3MID-ic7wfGNhqhWLYUNUK3TYca5b9WFWVouxmT1c6_YkXh9os7vuV9jqkgJyw-Jfky6Jy4XKbypqyeWIJ0CixTcbs)-> 
+
+ -> the 3 dots -> my computer -> windows -> windows -> fonts-> times.ttf  -> change it to this ; -> ok
+
+![](https://lh7-us.googleusercontent.com/TCJhC9muiQQ7XtejD-wTr7oLnwSRd11_agtmKuSkCOI8Yag55tl-FpmLjJe7pgVqgKdT4DpLINX22s819Mb-nbIo1EVlYSaHknHa6FV0E2hFEjUx8Nc8UU018UO69SOSC8c5ZqHrGRAdVgpTduIscVA) -> ![](https://lh7-us.googleusercontent.com/wk5i5igR_3Ojq_Lt5SGnNs0OUG3mWexyfsfQNTUG18TebEut4xITK3ApOBfwJMQ6BOtJDOFmzDVacR6vdafGhsIlMCtuLVxnP9nnpAMgZVOJlTFyJlQqBdVMjjWlmhMY75BqlK7gLVFgB3bSnu_weDk)
+
+Step 9. Moving the text; ![](https://lh7-us.googleusercontent.com/WV7WYwGFT91dBr-p9TyaljD6b1_SiH0hs4PyYCowMsCqIOPAb2dciAtS6xHauOD9Dj5y7cLk66pVJiIVrP5k6y5z0NJa-xrZF80mH2qz5af8CsLYKNYD8231VCoVcvxzPys9PAP6ZgamaMMwbUiXPNs) and move it to your desired place.
+
+![](https://lh7-us.googleusercontent.com/jRT6g1No08rFtMDQBjLcWbKHJrCtQmgyphwHZGuyRUG0xz6EUj5xY9kWlonry_FBibXssjwVGK8OReb9Z9HFv_3L5aWvxsgeHR3svReexHHPbBYHj1KhGiZ2HoXvAmsBThKQDXzJZMENU_iv0ZAy-es)
+
+Day 10 adding a pocket and a hole
+---------------------------------
+
+### Pocket; 
+
+Step 1. After you have your box you; create sketch
+
+Step 2. Add your shape and size it to your desired length -> close 
+
+![](https://lh7-us.googleusercontent.com/x07R1nK4zOpY3yqKsWkYhao7zUUQPEygPVcczSMuBMLGt5i5sAs-4mDORk6yPaP0GxEboHmiFZoMeX4d__xVpICVZsPxhil0fFfCe3vQSRdEPHR32URufD2Vwa4vFKRn2c7MqOYo0b397ezaSqUq2OA)
+
+![](https://lh7-us.googleusercontent.com/3nl0uRFp62s_Cv5sGhnObnxsa4DT5ZndwHvUmy7s5t5BUnkwGLSqdno2Lh6KnIrC0z-855PHK50yAyadnbF9FztamDjigwa-VHZr802bsxyj1S4HBQhUWudyhU_L9_QocK6wv-bG22E5ff9ChH0_QyI)
+
+Step 3. Press pocket ![](https://lh7-us.googleusercontent.com/mfMOKv8U_0PIQUj-lxMCnlHYd-b8CPtBeDQtuitVTERyn4ypmKvNiYKZN2xDDVhUWBiBOA5xKVW4JxXKXEldN0MCav4ky0aPYJx4UgtyAZ_ILq-8165HWKJF0iTmYmGkjZ1941I1Ny3xu6In3YgHtlw) -> and edit to what you like
+
+![](https://lh7-us.googleusercontent.com/xJkhXBfdL5zJ6-UjQDnz7GeVdnjN-bMBkf7w1CRia9zzsw0HqaDrPXmG0guCfR0y-v4aUGKOdbTahvcbPVvw8YUS8CdbZsKJ8UI7hxiH0s_HpOIJJ6fw2qB3-8WvBRKQZXEhD89vAGZTX1cjgSIGELs)
+
+End result;
+
+ ![](https://lh7-us.googleusercontent.com/XYJLSgCcjzIpNuB1iNwbbHO942ITe9CwPQwVdi4BL1hlJ7cmEp32_PqhiUvVEUl7CF5Q4HdTX0FSYrpvn5pZrri-XVh0LNPNBLT58ysW-INyOz1n4JiFCWeV6XzZRnyJluI2NEcbbAnXJe32JpeHu60)
+
+### Hole; 
+
+Step 1. Create your block; make a sketch -> add your shape -> close
+
+![](https://lh7-us.googleusercontent.com/xZeUWxuYp42Vz0gNwRYhEhu_I1ncE218Tva7sf3obU3rj1c_BB7PIOnQB3g-P76kD56b_NYP247B6mcioMYOC06IhIV1Q9riZSfGiDu8WvLiLW83N5U1RXpVKahieG_HOvHtUDXvhtndfr3_OX3z8jk)
+
+Step 2. And press the hole icon ![](https://lh7-us.googleusercontent.com/7OlnceMBxVXUl2zGr7L78ZLkw-a_E6HPGmxsRpiLPLJ27xcRmK3sDx85Ha9PTJr82XjTbsXZ3NXXGOSm0lKP-crrpOUyC3a0mVRqo4NAD3wsZP3XJUl5DWAUdIGcexony1AdVoi209STy9S_IQkogzE)
+
+End result;
+
+![](https://lh7-us.googleusercontent.com/5OhU_gLO418k9Nmz5JVQKTI5-vAHX25iuQBj89iq8gWogkoj8zePpohtAciO2jzBZAbhAXn1kL3PIOunTG_utJFC1gHe6gHOIbG1BN61ydcA_5AKI_7xMnxGbeVRRmTK6QzX9v88xNTbU2yk7tRMVUQ)
+
+Week 5.
+=======
+
+Day 11. Simulating how the cnc machine will cut it 
+---------------------------------------------------
+
+Preparing; 
+
+Step 1. Have your design ready -> start -> path -> job -> body 
+
+![](https://lh7-us.googleusercontent.com/QxL3QioTEUhHpxfSZ4Y259mXnWaxThIzS6asKYIKhj-A2qxPilpWXkvoVgVVrcQpY7L6aYS1aPKJkncHcCSam8GvcE5Hgca9CzM5IL8Byb5j-UPxQMzs0sFVgZwbwTwNq13NZL6ualPtFJ2GdSwjw3w)
+
+Step 2. After you selected your body -> ok -> and this will open up you make your changes 
+
+-   This is to have a border between your design. 
+
+![](https://lh7-us.googleusercontent.com/aF1NN54feJ_7nUH9tbrxX9qk7EqBkd_Q8fSuZZIHAQ7-4lIqhc03qdpRubShW-0hpnnrIzd7d7jf5sPJYzruZBQGyCzCXA2uQsDxwNyWXGdDbinxPJ9JZj61P45SiPq-Sdr4ThCxyuJiRgKX14kmxZc)
+
+Step 3. Ok -> job; model body ; space bar -> tool bit dock -> select 3 mm-endmil
+
+ ![](https://lh7-us.googleusercontent.com/SzptQafRF6qQn3ZlTYGsuCpNJ3Zc6jSOy-M8uYhfDMF4aWVPAaMzsrt5GdhM3NXKMM0LvoDtWlttdx65KaU-JtqtEjObQMV3cy9e_bSvhqIjHtlWfopr14X75A1lvi1haloEmjgRIl4zpBlCOQ1DcJc)
+
+Step 4. Output -> processor -> ussns -> output file -> 3 dots -> free cad folder
+
+Step 5. 3 mm-endmil; cubbel clip -> h; 20 -> ri; 3 -> l; 40 -> ok close
+
+Step 6. Double click -> helex ![](https://lh7-us.googleusercontent.com/U4gP86BXHaNfCiTHitV5gjT5NyVO4xUqx43NphVKqBxu_yI6tD5Oe6scsaXps6qtOnbuFKzB65nVj9q4LbTXadZ-7FLc2PpTBAVystB9QDSws1WWuBTNji0JAN26Mnhn6-X_Tnj22A_89iLRyVC2liM) ->
+
+![](https://lh7-us.googleusercontent.com/nIaAaYY0NPY8l4BFV9z2SZQ_CGFL5qzj-nqnMU7DkYXdTNmm4xLnlEIx8Sx7WWx-L-FvBRPqk7JTxAQMb6HcF8bxu_vsWtCVZ0ypKoh2CoMPPdfz-mhjc7PIQzUKUFLJSrTw8kb75V7YTXGPlU1pNVw)
+
+Step 7. Base geometry ; select your pocket hole or outer line ->  depts;  start dept; 0 , final depts; -5 , step down 1,5 (half of final dept). -< apply and ok -> change the name ->
+
+ ![](https://lh7-us.googleusercontent.com/kwbXQUQFogfKBbwPKCg65eyP16rQAj4jjtNJYO9MW1XMjaVIuRr4YkgKm-I8K8mPCkI94GrpBpYMdynjMwfsoufmlcfUHlfBVMBBE_KoW31MXbN7buNHl6_Oa5KmhM2-eC8Qq7gsGAlfhwh-G36mji0)
+
+Day 12. Final project discussion
+--------------------------------
+
+I chose  MakerProthetics -> making a prosthetic hand.
+
+Day 13. Cnc + getting info for final project 
+---------------------------------------------
+
+Continue with our final project research
+
+And making a design to cnc
+
+Week 6
+======
+
+Day 14. 3d designing your final project and something to cnc
+------------------------------------------------------------
+
+[https://www.thingiverse.com/](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGdNWmVEWUZ6TlU0Wm5vUWJkbldCUjNESzE5UXxBQ3Jtc0trTXlDSVNud2o5aFZxdWhyTTZvU0NadGZXUDR6WW9oRDZIeVVWc2s2cjBrSkxRbkdxaml1VFFaS3JXc0tDb281aTJ0UW9NeXNLY1drYjNCR0d4R2JRSmN1TjJyMVI2SGNxWlF6YU1fbDlFOUVsZThPWQ&q=https%3A%2F%2Fwww.thingiverse.com%2F&v=RDvs9FSZEII) 
+
+[InMoov body parts library : - InMoov](https://inmoov.fr/inmoov-stl-parts-viewer/?bodyparts=Right-Hand)
+
+![](https://lh7-us.googleusercontent.com/aIjHy5tR3aku6oYy3GdSyaiIRNLitOozhUmbhrSE_CLJPCq8cXgZw4UuveeZRTxLp8EuijD2Y-5ABeucHBUWEzcFyRh7bxALQYl5loP1jUPj-Ek4kdznUF-BSdgkgXx0-zDXnye1yeFrgK_70vH0wSg)
+
+![](https://lh7-us.googleusercontent.com/L9sHXMqNVE6r7ZBdZRRNbXm5VVjNmYCRRWn7hE48ArS2ZZkfRKcmGn06O3fZe_GDFXQf4pp6erAmR5LKfagmz1XvCTITtR4a0uYNL0b7cKYH-F2FKJwDNLIUvchKRSkhZb8d5EGxXb5OVvcGEt5RNdo)
+
+Day 15. Getting feedback for our final project 
+-----------------------------------------------
+
+I have a maker imb. 
+
+-   A prosthetic robotic arm 
+
+-   Using sliders to move the fingers 
+
+Day 16. Cnc and getting slides ready
+------------------------------------
+
+<https://docs.google.com/presentation/d/1nPClB7gsi6AZZlPOPovVdClNfcfzL8hTaGdp11fPODw/edit?usp=sharing>
+
+Week 7
+======
+
+Day 17 making my first prototype
+--------------------------------
+
+![](https://lh7-us.googleusercontent.com/pgIIJF4tv52q_kJwXyNrQtZit1FW5UhTAH8TjJVN8LztDxl6gfSOohFSCruNEwtol1Tkai8mPHfK6TOFRa1m6D-I3twelXGca4UblZYdrAPrpicnQFpy9x1P5Wtke-QvNRHjb4gxApod0T1G31FvNts)
+
+Out of a shoe box, straws, and string i made a working hand, to make a model so can workout how to code and make the actual hand.
+
+Day 18.  Esp32 with dht11 sensor
+--------------------------------
+
+Download; 
+
+[ESP32 DHT11/DHT22 Web Server using Arduino IDE | Random Nerd Tutorials](https://randomnerdtutorials.com/esp32-dht11-dht22-temperature-humidity-web-server-arduino-ide/)
+
+[mongodb download - Search (bing.com)](https://www.bing.com/search?q=mongodb+download&form=WSHBSH&qs=LT&cvid=0fd48fbd076a4f52b8d9fdc0eb91b72a&pq=&cc=SR&setlang=en-US&PC=LCTS&nclid=0DB9935AC666643227E09ECA77C589D0&ts=1696712076864&wsso=Moderate)
+
+Nvm set up
+
+-   Code; [interface-app-programming - Google Drive](https://drive.google.com/drive/folders/1cAuADiwB71DUtStElFkLd8tn8PcTxtrm)
+
+Step1. Open code; and change the flowing info; 
+
+|
+
+// Import required libraries\
+#include <WiFi.h>\
+#include <ESPAsyncWebServer.h>\
+#include <SPIFFS.h>\
+#include <Wire.h>\
+#include <Adafruit_Sensor.h>\
+#include <DHT.h>
+
+//MQTT\
+#include<PubSubClient.h>\
+#include <ArduinoJson.h>
+
+WiFiClient espClient;\
+PubSubClient client(espClient);
+
+//MQTT\
+const  char * mqtt_broker = " 192.168.100.8";\
+//const char * mqtt_broker = "192.168.100.125";\
+//const char * mqtt_broker = "broker.hivemq.com";\
+const  char * mqtt_topic = "zia/codettes/01"; // CHANGE SensorID here!\
+const  char * mqtt_User = "";\
+const  char * mqtt_Password = "";
+
+// Replace with your network credentials\
+const  char* ssid = "Nier_Home";\
+const  char* password = "Nier1234";
+
+#define DHTPIN 4\
+#define DHTTYPE    DHT11\
+DHT dht(DHTPIN, DHTTYPE);\
+// Create AsyncWebServer object on port 80\
+AsyncWebServer server(80);
+
+float t = 0;\
+float h = 0;
+
+String readDHTTemperature() {\
+ // Read temperature as Celsius (the default)\
+ float t = dht.readTemperature();\
+ // Convert temperature to Fahrenheit\
+ //t = 1.8 * t + 32;\
+ if (isnan(t)) {\
+ Serial.println("Failed to read from DHT sensor!");\
+ return  "";\
+  }\
+ else {\
+ Serial.println(t);\
+ return  String(t);\
+  }\
+}\
+String readDHTHumidity() {\
+ float h = dht.readHumidity();\
+ if (isnan(h)) {\
+ Serial.println("Failed to read from DHT sensor!");\
+ return  "";\
+  }\
+ else {\
+ Serial.println(h);\
+ return  String(h);\
+  }\
+}\
+void  setup() {\
+ // Serial port for debugging purposes\
+ Serial.begin(115200);\
+  dht.begin();\
+ // Initialize SPIFFS\
+ if (!SPIFFS.begin()) {\
+ Serial.println("An Error has occurred while mounting SPIFFS");\
+ return;\
+  }\
+ // Connect to Wi-Fi\
+ WiFi.begin(ssid, password);\
+ WiFi.setSleep(false);\
+ while (WiFi.status() != WL_CONNECTED) {\
+ delay(1000);\
+ Serial.println("Connecting to WiFi..");\
+  }\
+ // Print ESP32 Local IP Address\
+ Serial.println(WiFi.localIP());
+
+ //MQTT\
+client.setServer(mqtt_broker, 1883);\
+ if (initMqtt()) {\
+    client.publish("zia/codettes/01", "Hello from ESP32");\
+  }
+
+ // Route for root / web page
+
+  server.on("/", HTTP_GET, [](AsyncWebServerRequest * request) {\
+request->send(SPIFFS, "/index.html");\
+  });\
+    server.on("/config.js",HTTP_GET, [](AsyncWebServerRequest * request) {\
+request->send(SPIFFS, "/config.js");\
+  });\
+      server.on("/jquery.min.js",HTTP_GET, [](AsyncWebServerRequest * request) {\
+request->send(SPIFFS, "/jquery.min.js");\
+  });\
+    server.on("/mqttws31.js",HTTP_GET, [](AsyncWebServerRequest * request) {\
+request->send(SPIFFS, "/mqttws31.js");\
+  });\
+  server.on("/route.rest.js",HTTP_GET, [](AsyncWebServerRequest * request) {\
+request->send(SPIFFS, "/route.rest.js");\
+  });
+
+  server.on("/temperature", HTTP_GET, [](AsyncWebServerRequest   * request) {\
+    request->send_P(200, "text/plain", readDHTTemperature().c_str());\
+  });\
+  server.on("/humidity", HTTP_GET, [](AsyncWebServerRequest * request) {\
+    request->send_P(200, "text/plain", readDHTHumidity().c_str());\
+  });\
+ // Start server\
+  server.begin();\
+}
+
+unsigned  long lastMqttTime = millis();\
+const  unsigned  long Mqtt_INTERVAL_MS = 2000;\
+void  loop() {
+
+  client.loop();
+
+ // Send regular mqtt data\
+ if ((millis() - lastMqttTime) > Mqtt_INTERVAL_MS) {\
+ if (client.connected())\
+    {\
+ //GetWeatherData();\
+      handle_MqttData();\
+lastMqttTime = millis();\
+} else\
+    {\
+      initMqtt();\
+    }
+
+  }\
+}\
+void GetWeatherData()\
+{
+
+}
+
+bool initMqtt()\
+{\
+ if (!client.connected()) {\
+ Serial.println("Connecting to MQTT...");
+
+ if (client.connect("ESP32Client", mqtt_User, mqtt_Password )) {
+
+ Serial.println("connected");\
+ return true;
+
+} else {
+
+ Serial.print("failed with state ");\
+ Serial.print(client.state());\
+ delay(2000);\
+ return false;\
+    }\
+  }\
+}
+
+void handle_MqttData() {\
+ float h = dht.readHumidity();\
+ float t = dht.readTemperature();
+
+  StaticJsonDocument<1023> doc;\
+ //JsonObject createNestedObject() const;
+
+  doc["temp"] = t;\
+  doc["humid"] = h;
+
+ char out[128];\
+ int b = serializeJson(doc, out);\
+serializeJson(doc, Serial);\
+ Serial.print("bytes ->  ");\
+ Serial.print(b, DEC);\
+ // add if delivered or not\
+  client.publish((char*)mqtt_topic, out) ? Serial.println(" -> delivered") : Serial.println(" -> failed");\
+}
+
+ |
+
+Step2.  Finding your ip address; 
+
+Command promt; type; ipconfig -> Copy  IPv4 Address
+
+Step 3. Open your mosquito; find your placement of your folder and copy it into command prompt with cd
+
+-   Mosquitto -v -c test.conf
+
+![](https://lh7-us.googleusercontent.com/Q-qnl6i89g9Ie9BlZF0o-O1wkvP9uFXVlIEnuiDBHy9pzmj6L5n60QKATQSr6zcSug3jDg2dQWAyo80tqaF_cxDl_scLhHJTD_2iDO6UCUpL43MPC4asl_NL6UXwJejguHnj7vuC5b9z_C1neR8dTwQ)
+
+Step 4. Locate you node.js folder
+
+-   dir 
+
+-   node server.js
+
+![](https://lh7-us.googleusercontent.com/Vvnh5CDLX8Z59axkUWB_pUQPWPtA3msqfVHbtfH1INpkXRxuMzHEkYOyGt7L2R-syL3WIEnymxYSEsLZu2I_I73BMxMSOtxU-5PdwsASPWneqoABT-krpDLBzLKePuwuTuz0FMlnHOIpxHyo6XbEnow)
+
+Step 5. Open vs code and edit your front end.
+
+Final project;
+
+![](https://lh7-us.googleusercontent.com/ObAYFUbiwBXJ0m-BzlUUSwfegtU2LHyDTQJCZcu77A_yIBdoXVCF7CSf9mNv3PqOaFteiZoxIoB-H0Fxgsp5w09Y5ne1qGjzEW5b67EGhwx8iNxV2Rm06Y-qqD5DX3WxIBmi-kVVfqAHlursfAdweR8)
+
+Day 19. 
+--------
+
+Finishing up on previous projects.
+
+I started studying code for my prodject:
+
+Week 8
+======
+
+Day 20. You already have your code for the temperature sensor now you need to link all the files in the date folder:
+--------------------------------------------------------------------------------------------------------------------
+
+Step 1. C:\Users\\Documents\nodejs\prodjects\mongostack\public
+
+Look here and copy them in your data folder of your dth11 webserver chart.
+
+Step 2. Changing your code accordingly;
+
+![](https://lh7-us.googleusercontent.com/BcKEBhDXAZSg8k7V8jol94zacDdMZHjT11Uqt_kultQXq8dvrS0ceWyCmp6wkHS7aMWn1HIN3IkaLGutU3CPzax1aMtbZC6fvOyLioJJKxmiAxza0u6FQxMDOTbSbhYwHETBeQhSUniDJISBhrIHyOs)
+
+Day 21. Review 
+---------------
+
+Make a skymatic tinkercad on how the hand will work. 
+
+![](https://lh7-us.googleusercontent.com/yqzbASDB__TKnkKU1YWUDUfJ_3um75MlFtGpdsQB_fFYUYN4BP0xvYNQxAQJrS-aRHOYsBmIP0IHMIgPeQbJsrQJc0TP2H07fGIpgyCcDtn_c8uIF1nd-27djryQHKEmmQ5Cvy8cxch4ia42AoCxisg)
+
+Day 22. Prototyping 
+--------------------
+
+Making a code to work with the hand. I started with a simple code. 
+
+[ESP32 Servo Motor Web Server with Arduino IDE | Random Nerd Tutorials](https://randomnerdtutorials.com/esp32-servo-motor-web-server-arduino-ide/#more-61334)
+
+Code: 
+
+Make sure you download the right servo library and have 
+
+#include <ESP32Servo.h> in your code.
+
+|
+
+#include <ESP32Servo.h>
+
+#define NUM_SERVOS 5 // Number of servo motors
+
+// Define the servo pins\
+const  int servoPins[NUM_SERVOS] = {12, 13, 14, 15, 16}; // Replace with your pin numbers
+
+Servo servos[NUM_SERVOS];
+
+void  setup() {\
+ for (int i = 0; i < NUM_SERVOS; i++) {\
+    servos[i].attach(servoPins[i]);\
+    servos[i].write(0); // Initialize the servos in the closed position (0 degrees)\
+  }\
+}
+
+void  loop() {\
+ // Control each servo independently\
+ for (int i = 0; i < NUM_SERVOS; i++) {\
+ // Open the servo (0 to 180 degrees)\
+    servos[i].write(180);\
+ delay(5000); // Pause for 1 second in the open position
+
+ // Close the servo (180 to 0 degrees)\
+    servos[i].write(0);\
+ delay(5000); // Pause for 1 second in the closed position\
+  }\
+}
+
+ |
+
+![](https://lh7-us.googleusercontent.com/Vp8KQBtw0VnsTTooEJj1Fde_f6tpUj-CK_gBTcp6wqjY93nIqPdCk09gkaZsu67MWCWnFyURQxrd8bYUX12Tfq20fQ7ag8vmKEcePYyVHkxzB67Suk4OkrbXJICIzSqGHosK4vKzuHfFomJc4hfAh54)
+=================================================================================================================================================================================================
+
+<ESP32Servo.h> ;
+
+Week 9. 
+========
+
+Day 23. Making a dashboard. 
+----------------------------
+
+I took the index code from the hd11 and the led sliders and made a thinker and combined them to make this. 
+
+I watched some youtube videos on html where they taught me the basics and worked out what I can do from there. 
+
+And ofcourse just try and change things to make yourself understand what to do. 
+
+![](https://lh7-us.googleusercontent.com/BLA09foqwra4kvHHvYOnHKCj7Td7jfxSk7gpiPAPmZPa3BIltouelJJ04702BcOc12ZHtwAnjJ3ObRA7009Y05UlJnUPv2RhL6pi1Datd-zNzw6MmcOQCZNo73tN0DQjSQUGDFbZcJCpcjEopK89zw4)![](https://lh7-us.googleusercontent.com/9GGPgWZthWfb5rvLNZEosjCmfeulpERKI9AUzij_WJ8-G5g1bSCx8p2h_o4mXLkmQDw5oKV3c7uA5UmDvcrRk1rt0Pt4V0pcjIpEKoPBVuPk1_oChWrvQYWbpkqf5eq-1H1KpUWYPtIK60SAgPkg44I)
+
+<https://www.remove.bg/upload> => to remove the background from the img.
+
+Tips: when creating the div sorte it into containers so you can have an over few of your material. 
+
+Make a html file and a style will give you a better overview of your work.
+
+Week 10
+=======
+
+Day 24. Making a final project document. 
+-----------------------------------------
+
+Creating a document page for your final product:
+
+-   Your hole journey but in  less techy manor
+
+[klaw's](https://docs.google.com/document/d/13eO-WBQXUSaQYhdIbIbcaPsydcYxhxdDF1CodKGr4HQ/edit?usp=sharing)
+
+Week 11. 
+=========
+
+Day 25. 3D designing
+--------------------
+
+Download: <https://flashforge-usa.com/pages/download>
+
+There was a problem with the printer (the back fan needed to be lowered) and I spent a good 5 hours tinkering with many different settings to finally come to that conclusion. 
+
+I started with one of my fingers and saw that it kept failing and after a few failed attempts I just moved from a finger to a box. The box also failed a lot but I still tried a lot of different settings to conclude my perfect one. After the box was printed I finally could start with my fingers. However there was still a printing problem so eventually I decided just to cut the finger into individual parts and print them one by one. 
+
+A tip if it's not working just have the patients and it will eventually work. Also speak nicely with the printer.
+
+Step 1. creator 3 pro Select your type -> adventurer 3 series -> import you file and stl -> rotate and ; serve
+
+![](https://lh7-us.googleusercontent.com/xAb0lkwWFveb2K7Fou2-bDmymEidVYON2PlLMBQZXw07B75XYBjD7TcfWvAK3bQkxeKRDAwaWNDW6qb4rQo3eU3hMHVYrycPxSFzkLDw5h5hI1rSJf6n1nQg4yB97f9K1kkp2sj6xW0kePT4YnaJem0)![](https://lh7-us.googleusercontent.com/VuD90jDVmGsw04HlbQXyv8gtOUdHEMhT-cXMKvxeTlcgunitoIwBqM0xMb_63uwROVXF_kK9jVTu93cJv1CpxOJ-qiUThOShj72fyWvC-jp_AFyuGL5ZA2xFQ5ZMsRqkChBlSXXV4YE-4M5R0qMVuhQ)![](https://lh7-us.googleusercontent.com/8C_JGWDlzYI8cQXWqa8ZxiFbSKh5UCz_e42D4LDBEpom8dHMW138ocDLS0P2JqTFhRWopEKoiIOSFzrO8eR5PMSDczxrt69AXLy-QY3nDO-yEt7iLVvFeXlEoWUOyZkAmrVivuFarkhp4Pfy8jXDQeg)![](https://lh7-us.googleusercontent.com/1_mEHzw2zJcyaBRvdXXJaU1IuQl8qoCHxrK38i10bDyf5kIVdmeOj22TKsneDsbeu9nZSyFuUgu7E2BBPxeKJPs-FOg6fGRx9r_gAE8-Ac8Zu_GiqPxv2Wc1gmVoLYpYFSV0mRgOOQeWnJj6aFwOwTQ)
+
+Printing porses:
+
+![](https://lh7-us.googleusercontent.com/Hw_V4ckrMM-rfc8CAveltKP2lP2kMh3FpBxt_WLLIXvLeD55easMt9pAj3MmCbNVcF1H3cGg-J6PRvchjgGlmO-HgscOkJ2EjCDIoYByE5Vgrm-qL74W59hXX5KD458kIV9rJq11nYHb28uNdyTyxLA)![](https://lh7-us.googleusercontent.com/ynbqbmBzHCdILABDfc3DXIc9HhThrCv7Ttv4M1SDtwXUCfM-PsIjUl02tYguHAhvGd0lVeLPoy3H0y0uVa78fJR4IvowR_OUGwdkmwXrkhcUoTd2qnlZ0T2UWd1yX1ge47RULGY66CpxmPwLujV6E1w)
+
+End results 
+
+![](https://lh7-us.googleusercontent.com/19Lye8IZ_MkL--_IqH_j_WgI3zZy8WAE5Bp_Thl9qD5pgMb5mVWfA1EcQlgIuBIN4Vq9fzvZE-YfKaJdHj4DVd68CNvn0g_HmkqsLSVfym50ByuuiMWG-8u5d6CbqoeuEHS_zBj3nJcaQMWj1asENu0)![](https://lh7-us.googleusercontent.com/qGVSxLF_yWZaGtTDJVDONyqezuO3fj97RLjcBK5PHuhIKXlpmDCW-sqKgQWmhS7dwPD-T7fzP7vdwNkzdoIeES9NKBpChMS2sD9dBXynuijTpkgiNUp0pPcPQyPyRbc0WO50TEyew84kRhNAPEYyyVw)![](https://lh7-us.googleusercontent.com/OgwRcmwvY1xmAoRzBjMi7GOMXIxrw_gD1vMrlOZ1aKM8_kxgV6v1cLu1ZmJAeBgDhwFJUJIZWr-YuHunRZuZIAtJUbv0A6AsBwBzwLWnW9j5QBxqME_c74HpKcV6sxlSnIj4T0Z0LwFT2nhGEmQ41_4)
+
+The used filament 
+
+![](https://lh7-us.googleusercontent.com/PqZXN53CQBcXmRSsutw7GbKpwcREdwknbDHV8EBv9lC3U4mw3Vcr7WopVz16nWYWxsG-HpJ7PeE1W2irMCo1yZTQ5KgZxpec1K5ey3fJahhQbmLaHVYFHUTQpiiRbfg61xs3Gf6Nn4SbCw0CqlBV2Nc)
+
+Here i am stringing the fingers together
+
+![](https://lh7-us.googleusercontent.com/qhY1MMcRHKHECmYBihief_Baoem6Ruu0aTTJ8--V4yAs3DswRHZDzL3uzhSYfnTCG6wRUoiu9JPwyr7Udy4t0TWbHz2enCrtx0_iARfZWnmnxQrW3LCySc20Yw72S3U_EX50YLkjTXdPF3NHqzBBXgI)![](https://lh7-us.googleusercontent.com/9-uS65pcVreM-eDLSZ5TeFgumopZ3tmfIVUYTKcQ9icZQuIRtA9UQwjuPS_rGsBlWGtR6L5yfAv8AQDOMkFs8d_kKPBzQd8X3_90ruLlVTcNbd18v-58uwh-yBF9_nxzrLG_Whbl6fBfSuJW7d3MlbU)
+
+Week 12 start of GIRLS TECH LEAGUE 
+===================================
+
+Day 26 assessment 
+------------------
+
+I'll be choching for the teckhuddels 
+
+The objective is to make the innostarter rover in 2 days.
+
+GirlsTechLeague-11-11-23[1].pdf
+
+Day 27 Making the gripper: 
+---------------------------
+
+https://www.thingiverse.com/thing:298820
+
+![](https://lh7-us.googleusercontent.com/g54TIAZEZIeRW-18_i4RIVkG1Klp-V-Rz0Eju_gPkBMB0BNSjAUdi2pwrbygbjHpDpB2qKVI5KMkTtwWC75RuCwcQlrD381J00pOTwsYPhbQCSFIr9AjidCr6r7JPSvUXGCKPnXWPTVn--I8EV3r02U)
+
+Week 13
+=======
+
+Day 28 and 29
+-------------
+
+Getting everything for the girls teck league
+
+-   Code
+
+-   Container
+
+-   Battery pack 
+
+-   Components 
+
+-   App (nano)
+
+During the two days we had to tech the basics of making a rover and also prepping them to present their work.
+
+Tips:
+
+-   Try making it a little more engaging 
+
+-   Try looking at more visual examples
+
+-   And set clear boundaries
+
+Week 14
+=======
+
+First day after break
+
+Day 30. Finally set up 
+-----------------------
+
+-   My klaw is up and running
+
+-   Now just putting the fingers together and making my webpage cool
+
+Week 15 
+========
+
+Day 31:
+-------
+
+Continued working on the logo for my project and made progress with finalizing my slides and project page.
+
+Week 16.
+========
+
+Day 32:
+-------
+
+Received help with creating the HTML webpage, but ran into issues with it not working as intended. Shifting focus to sewing my golf items and 3D designing a servo holder.
+
+![](https://lh7-us.googleusercontent.com/vQ6Gh07UNd9Sl0ls_zShfu9DGnUWXjMqr-Q3eHA9ouLD3ISN_6lz64fp5zJSXL-MoEPTE-X0YhhNIJIOcjmEJc5bGvxVUGIL_P44HnJhjHF__Bf88V6zy_ZTPYj5ZwyYTwkX3PDq3eLR797nRrgCpXc)
+
+Week 17 
+========
+
+Day 33:
+-------
+
+Working from home on Saturday, I finally identified the issue with my HTML code -- the divs were not scripted correctly. The troubleshooting process involved adjusting the sliders' positioning and ultimately led me to delete unnecessary JavaScript code, opting for simplicity.
+
+I also took the opportunity to rewrite the ESP code, ensuring seamless integration with the rest of the project. Overcoming the HTML challenge, I'm now poised to make further refinements, from the webpage aesthetics to the underlying code, as I approach the finalization of my project.
+
+![](https://lh7-us.googleusercontent.com/SHLP0UXBKAPnCTrekIwgSascOsqALUPYVlQDk6p5K3gI0biYyF6OkX8ckQh8UdsP-tEKFnbrar1YLveiy14vupP4iT5vsdF-7JzQUi5RGvsX-n_Biyzo_c62yeCMMhySZjU0pR-_RwsgiWjhZ09cEzM)
+
+It's not perfect but it's getting there.
