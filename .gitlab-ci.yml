@@ -1,24 +1,157 @@
-image: python:3.8-buster
+ZIYANA 
 
-before_script:
-  - pip install -r requirements.txt
+FINAL PROJECT
 
-test:
-  stage: test
-  script:
-  - mkdocs build --strict --verbose --site-dir test
-  artifacts:
-    paths:
-    - test
-  rules:
-    - if: $CI_COMMIT_REF_NAME != $CI_DEFAULT_BRANCH
+Empowering Lives, One Hand at a Time: Klaws, Your Adaptive Robotic Companion!
 
-pages:
-  stage: deploy
-  script:
-  - mkdocs build --strict --verbose
-  artifacts:
-    paths:
-    - public
-  rules:
-    - if: $CI_COMMIT_REF_NAME == $CI_DEFAULT_BRANCH
+Introducing Klaw, a revolutionary robotic hand designed to enhance the lives of individuals with limb disabilities. For my final project, I'm developing an IoT solution for a prosthetic limb, with a focus on improving grip and strength control. Inspired by the limitations of existing robotic hands and my favorite cartoon character, "Dr. Claw," Klaw aims to provide a powerful and adaptable solution. By offering natural hand movement, a strong grip, and precise control, Klaw addresses daily challenges faced by those with limb differences. Moreover, the integration of IoT technology enables real-time monitoring and customization, empowering users to personalize their experience and regain independence. Klaw is not just a gadget; it's a commitment to making a positive impact on the lives of individuals with limb disabilities, offering a brighter and more empowering future.
+
+    Design process
+------------------
+
+![](https://lh7-us.googleusercontent.com/UrJg-8_2gXnZR0QmGIcwh43DBC7Y3K1q0Fz61gXZBBSi2mwYjUHDuzYuoyy-etJ_iURGgfo669at29_hs02m7h5RCi2Eejo7vsg_M3XXnSxZCpsp_z3dTLZgR1CaZ8Y8MhZMOeTBBUSI_9IMxxxXE7w)![](https://lh7-us.googleusercontent.com/Ji3196Uf8Jax2PilW8XIKVHzWsZDjZvfku38heFGOvpmryCBdzCl7eCrxAjINc1Cb34yIMN1iVCkvf3bwQs4pNL3eJcFSD_wW0vpvjqH5QQQUJrt1IYd1g_kndii93Ae-4ePn40hN4Q2R1wI5NDuXhM)
+
+My design process involved creating several models, starting with initial sketches, followed by my first and second 3D hand models, a cardboard prototype, and finally, the printed design. After exploring various concepts, I ultimately chose the second iteration. The cardboard model served as a crucial step, providing insights into the hand's functionality, refining my 3D model, and informing the coding aspect. This iterative approach allowed me to visualize and improve the mechanical aspects, ensuring a more effective and well-thought-out final product.
+
+Internal architecture
+---------------------
+
+![](https://lh7-us.googleusercontent.com/LY3qZHuHh3hhxXqG0Ph14GSjhL3zUULfoVJU12mAKGbe0sINQG6AzwPsrWZrnHzUMe_R__42WsVENL5MawLttzhV-6lPO2g4OD_yLBvEeLToBfS0gt4jOKMuWLX-Jhdyt0ycKYxICkHh4ktqi_5lXBY) 
+
+##### Who does klaws work: 
+
+-   The sliders on the webpage will send info to the servos 
+
+-   The servos will move accordingly 
+
+-   Which will make the fingers move
+
+### Who will use klaws?
+
+-   Diabetics: peripheral vascular disease or PVD, blood clots, or osteomyelitis 
+
+-   Injuries: Especially of the hand. 
+
+-   veterans
+
+### What will klaws look like?
+
+-   It will be like an extra accessory that will sit comfortably on the wrist. 
+
+-   And it will have a small covering, like a glof, so it will look cool. 
+
+### What does it do?
+
+-   On the app you can use the sliders to move the fingers.
+
+Weeks of work on final project:
+-------------------------------
+
+- Explored 3D design for hand aesthetics and functionality
+
+- Implemented a cardboard model to assess practicality and functionality
+
+- Initiated coding for five servos, starting with one and gradually adding others
+
+- Focused on understanding coding intricacies and ensuring a step-by-step learning process
+
+- Connected the coded servos to the ESP32 for tangible application
+
+- Iterated through five different HTML page designs before settling on a final hand-like model
+
+- Demonstrated commitment to a hands-on, iterative process for a well-executed final product
+
+### Bill of material:
+
+|
+
+Components 
+
+ |
+
+Price 
+
+ |
+|
+
+5x servo 
+
+ |
+
+11,99
+
+ |
+|
+
+Esp 32
+
+ |
+
+23,99
+
+ |
+|
+
+Breadboard
+
+ |\
+ |
+|
+
+Jump wires
+
+ |\
+ |
+
+### The making process
+
+After printing the fingers, I faced the decision of how to create the palm. While the initial plan was to 3D print it, I aimed for a more innovative approach. I repurposed an old workout glove to serve as the hand, requiring only minor modifications such as resizing the finger holes. This posed a bit of a challenge, but I took the opportunity to relearn the skill of sewing.
+
+After determining my objectives and planning the execution, I delved into the creative process. I extensively researched coding for servos and the ESP32, crafting a comprehensive code to control all five servos. Progressing from simple dashboards that manipulated servos, I iteratively refined them to align with my aesthetic preferences. With valuable advice, I culminated in designing my ultimate webpage. My subsequent enhancement involved incorporating a button feature, enabling the movement of two fingers to form gestures like the peace sign or thumbs up. Looking ahead, my aspiration is to implement complete voice control functionality.
+
+### Sources
+
+|
+
+3d designs
+
+ |
+
+[Comments for Humanoid Robotic Hand by grossrc - Thingiverse](https://www.thingiverse.com/thing:2269115/comments)
+
+<https://youtu.be/RDvs9FSZEII>
+
+[Makes for Left Hand robot InMoov by Gael_Langevin - Thingiverse](https://www.thingiverse.com/thing:18939/makes)
+
+ |
+|
+
+Robotic hand 
+
+ |
+
+<https://youtu.be/OZ9g3O3X7dk> 
+
+ |
+|
+
+Voiscontrole 
+
+ |
+
+[Control Servo Motors Through Voice Command Using Arduino | Wekinator | Maker Pro](https://maker.pro/wekinator/projects/how-to-control-servo-motors-through-voice-command-using-arduino)
+
+ |
+|
+
+Esp 32 with a servo
+
+ |
+
+https://randomnerdtutorials.com/esp32-servo-motor-web-server-arduino-ide/#more-61334
+
+ |
+
+### My presentation slides ["Klaws"](https://docs.google.com/presentation/d/1nPClB7gsi6AZZlPOPovVdClNfcfzL8hTaGdp11fPODw/edit?usp=sharing)
+
+Thank you for taking the time to review details about my final project. I trust you found it informative and engaging. If you consider replicating it, I extend my best wishes for a successful implementation. Should you have any inquiries or require additional information, please feel free to reach out. Thank you for your interest and support.
